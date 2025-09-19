@@ -1,0 +1,5779 @@
+{
+  "data": {
+    "abGroupType": "",
+    "attachments": {
+      "searchNullMethodGroup": "",
+      "searchNullMethod": ""
+    },
+    "campusTypeSearch": 0,
+    "count": 481,
+    "dataIdentity": "09613c3ec52fb8ca6b61fa913f94076e",
+    "filter": false,
+    "intentionalWords": [
+      "职位",
+      "专业"
+    ],
+    "isApprovedInvestment": 0,
+    "isEndPage": 0,
+    "isVerification": 0,
+    "jobTypes": {
+      "filterTags": [],
+      "main": [],
+      "sub": []
+    },
+    "kw": "",
+    "list": [
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1785513599999,
+          "applyStartTime": 1753977600000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104083,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "中国船舶集团有限公司",
+          "orgNumber": "KA1226837615P90000003000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          },
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/position/list/ui23/icon_property_country.png?w=156&h=48&r=3",
+            "label": "央国政",
+            "priority": 60,
+            "type": 40
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "南沙",
+        "cityId": "763",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10078821,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1724901078390099253/%25E8%2588%25B9%25E8%2588%25B6LOGO.png",
+        "companyName": "中国船舶集团有限公司",
+        "companyNumber": "KA1226837615D90000630000",
+        "companyRootId": 104083,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "10000人以上",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA1226837615P90000003000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "硕士",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "287",
+          "lastReplyTimeText": "",
+          "staffAvgHandleResumeTime30d": 7090,
+          "staffHandleResumeCnts30d": 24,
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-09-09 14:18:00",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "500000270"
+        ],
+        "industryName": "军工制造",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40811024605,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "包住"
+            },
+            {
+              "itemValue": "体检福利"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "单位体检",
+          "包住"
+        ],
+        "jobPostingTime": 1757398680464,
+        "jobRootOrgInfo": {
+          "cityName": "广州"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "岗位职责：1.负责公司年度、月度审计工作计划的编制；2.负责审计报告的编制、审核及审计问题整改工作；3.负责协调公司内部的审计业务任职要求：1.学历：硕士研究生2.审计：审计、经济、法律、财务等相关专业3.具备扎实的会计、审计专业基础知识；具备良好的逻辑思维能力与数据分析能力；福利：八险两金、免费住宿、落户补贴、年度体检、职工疗养等",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "审计管培生",
+        "needMajor": [],
+        "number": "CCL1226837610J40811024605",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "1",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-09 14:18:00",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 1,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA1226837615P90000003000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "1.4-1.6万·15薪",
+        "salaryCount": "",
+        "salaryReal": "14000-16000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1177578378,
+          "lastOnlineTime": 1758253737290,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "14000100160000",
+        "subJobTypeLevelName": "审计",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "包住",
+          "体检福利"
+        ],
+        "workCity": "广州",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1787068799999,
+          "applyStartTime": 1755532800000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104136,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "中交第四航务工程局有限公司",
+          "orgNumber": "KA0136739990P90000001000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          },
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/position/list/ui23/icon_property_country.png?w=156&h=48&r=3",
+            "label": "央国政",
+            "priority": 60,
+            "type": 40
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "海珠",
+        "cityId": "763",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10085659,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1755590252576359761/2018031420000145134983.jpg",
+        "companyName": "中交第四航务工程局有限公司",
+        "companyNumber": "KA0136739990D90000011000",
+        "companyRootId": 104136,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "1000-9999人",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0136739990P90000001000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "硕士",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "125",
+          "lastReplyTimeText": "",
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-08-29 11:22:54",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "400030000"
+        ],
+        "industryName": "工程施工",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40831489603,
+        "jobKeyword": {
+          "keywords": []
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1756437774036,
+        "jobRootOrgInfo": {
+          "cityName": "广州"
+        },
+        "jobSkillTags": [
+          {
+            "id": 19367399,
+            "name": "账务管理",
+            "standard": false
+          },
+          {
+            "id": 19367400,
+            "name": "会计管理",
+            "standard": false
+          },
+          {
+            "id": 270060929,
+            "name": "资金管理",
+            "standard": false
+          }
+        ],
+        "jobSummary": "【工作职责】1. 负责做好项目记账、付账、报账工作；2. 负责编制各种财务会计报表；3. 定期核对往来账款，及时清算应收应付款；4. 负责会计凭证、报表、账簿的编制、整理、存档等工作；【任职资格】1. 专业学历：本科以上学历，财务管理、会计学等相关专业；2. 能力要求：具备良好的沟通、协调能力，有较强的分析、解决问题的能力。3. 语言及计算机要求：熟练掌握Office办公软件；有英语六级优先录取。...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "2026届校招四航局总承包财务管理岗",
+        "needMajor": [],
+        "number": "CC136739990J40831489603",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "1",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-01 10:35:20",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 1,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0136739990P90000001000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "账务管理"
+          },
+          {
+            "state": 0,
+            "value": "会计管理"
+          },
+          {
+            "state": 0,
+            "value": "资金管理"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1239559565,
+          "lastOnlineTime": 1758275833345,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 44010511,
+        "streetName": "南洲",
+        "subJobTypeLevel": "14000100030000",
+        "subJobTypeLevelName": "财务经理/主管",
+        "subways": [
+          {
+            "distance": 688,
+            "latitude": 23.054898,
+            "lineId": 101851,
+            "lineName": "3号线",
+            "longitude": 113.319077,
+            "stationId": 101857,
+            "stationName": "沥滘"
+          },
+          {
+            "distance": 688,
+            "latitude": 23.054898,
+            "lineId": 101972,
+            "lineName": "广佛线",
+            "longitude": 113.319077,
+            "stationId": 103664,
+            "stationName": "沥滘"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "广州",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1782835199999,
+          "applyStartTime": 1755014400000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104118,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "宝钢股份",
+          "orgNumber": "KA1282573408P90000003000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "489",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10082963,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1695891797321206300/%25E5%25AE%259D%25E9%2592%25A2%25E8%2582%25A1%25E4%25BB%25BDLOGO.jpeg",
+        "companyName": "宝钢股份",
+        "companyNumber": "KA1282573408D90000027000",
+        "companyRootId": 104118,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "10000人以上",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA1282573408P90000003000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "1591",
+          "lastReplyTimeText": "",
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-09-18 12:26:27",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "500060000"
+        ],
+        "industryName": "钢铁/有色金属冶炼及加工",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40826638613,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1758169587410,
+        "jobRootOrgInfo": {
+          "cityName": "上海"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "职位职责：1、研究财税政策法规，洞悉公司的管理要求，组织策划、构建宝钢国际财务会计管理制度体系、标准核算体系，确保与上级公司相关政策、制度的紧密衔接，确保财务流程与业务流程的相互适应并保证其有效运作。2、深刻理解公司战略对本领域的要求，根据公司战略，设定本领域的研究方向、工作目标，支持公司战略的实施。3、策划并推进会计控制、会计核算及会计基础管理以保证各项会计活动的有效运行。4、负责与国家相关部门...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "培训生（财务管理）",
+        "needMajor": [],
+        "number": "CCL1282573400J40826638613",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "9",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-18 12:26:27",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 0,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA1282573408P90000003000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1149054370,
+          "lastOnlineTime": 1758266342837,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "14000100220000",
+        "subJobTypeLevelName": "财务专员/助理",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "全国",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1785772799999,
+          "applyStartTime": 1754236800000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104085,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "北京建工",
+          "orgNumber": "KA0120634338P90000002000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          },
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/position/list/ui23/icon_property_country.png?w=156&h=48&r=3",
+            "label": "央国政",
+            "priority": 60,
+            "type": 40
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "489",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10078909,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1754313837173864388/1608098400545.png",
+        "companyName": "北京建工",
+        "companyNumber": "KA0120634338D90000061000",
+        "companyRootId": 104085,
+        "companyScaleTypeTagsNew": [
+          "中国500强"
+        ],
+        "companySize": "10000人以上",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0120634338P90000002000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "6950",
+          "lastReplyTimeText": "",
+          "staffAvgHandleResumeTime30d": 103,
+          "staffHandleResumeCnts30d": 26,
+          "staffReplyRate30d": 0.04,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-08-27 17:49:58",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "400030000"
+        ],
+        "industryName": "工程施工",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40778801110,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1756288198874,
+        "jobRootOrgInfo": {
+          "cityName": "北京"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "1、2025年及2026年未就业的应届毕业生；2、本科级以上学历；3、会计学、工商管理、财务管理等相关专业；4、在校任本干部、学生会、本专业相关的实习经历者优先；5、服从公司安排；6、具备良好的沟通能力、团队协作能力、抗压能力等",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财务岗（2026年校招）",
+        "needMajor": [],
+        "number": "CC120634330J40778801110",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "1",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-09 04:03:04",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 5,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0120634338P90000002000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "7000-12000元·13薪",
+        "salaryCount": "",
+        "salaryReal": "7000-12000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "",
+          "hrStateInfo": "",
+          "id": 1126046223,
+          "lastOnlineTime": 1757575951120,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "14000100220000",
+        "subJobTypeLevelName": "财务专员/助理",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "全国",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "无经验"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1788451199999,
+          "applyStartTime": 1756915200000,
+          "applyTimeCountDown": "",
+          "companyLevel": 3,
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104260,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "顺丰速运",
+          "orgNumber": "KA0131486150P90000005000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "763",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10088785,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1740462364956752866/sf%2520logo-01.jpg",
+        "companyName": "顺丰速运",
+        "companyNumber": "KA0131486150D90000010000",
+        "companyRootId": 104260,
+        "companyScaleTypeTagsNew": [
+          "已上市"
+        ],
+        "companySize": "10000人以上",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0131486150P90000005000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "484",
+          "lastReplyTimeText": "",
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-09-04 20:30:00",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "1000020000"
+        ],
+        "industryName": "货运/物流/仓储",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40799706614,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1756989000606,
+        "jobRootOrgInfo": {
+          "cityName": "深圳"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "1、财务核算与分析：负责地区日常财务核算工作，确保账务准确性和合规性；参与月度/季度财务报表编制，协助完成经营分析报告，为管理层决策提供数据支持；2、预算与成本管控：协助制定区域预算方案，跟踪执行情况，分析偏差并提出优化建议；监控地区运营成本，挖掘降本增效潜力，推动资源合理配置；3、业财融合与项目支持：深入业务一线，支持地区业务部门财务需求，提供解决方案；参与新业务模式、重大项目的财务评估与风险管...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财务岗（地区）",
+        "needMajor": [],
+        "number": "CC131486150J40799706614",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 0,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "上市公司",
+        "propertyCode": "9",
+        "propertyName": "上市公司",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-04 20:30:00",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 0,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0131486150P90000005000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "",
+          "hrStateInfo": "",
+          "id": 1024563119,
+          "lastOnlineTime": 1757985788571,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "3000100040000",
+        "subJobTypeLevelName": "产品经理",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "广州",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1788191999999,
+          "applyStartTime": 1756915200000,
+          "applyTimeCountDown": "",
+          "companyLevel": 3,
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104247,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "广汽集团",
+          "orgNumber": "KA0131989273P90000001000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "番禺",
+        "cityId": "763",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10088886,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1757064653595895340/%25E5%259B%25BE%25E7%2589%258712.png",
+        "companyName": "广汽集团",
+        "companyNumber": "KA0131989273D90000029000",
+        "companyRootId": 104247,
+        "companyScaleTypeTagsNew": [
+          "世界500强"
+        ],
+        "companySize": "10000人以上",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0131989273P90000001000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "755",
+          "lastReplyTimeText": "",
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-09-15 13:59:22",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "500110000"
+        ],
+        "industryName": "汽车研发/制造",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40812391105,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "按时发薪"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "工资月结"
+        ],
+        "jobPostingTime": 1757915962100,
+        "jobRootOrgInfo": {
+          "cityName": "广州"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "1、确保公司资产、负债、所有者权益、收入、费用、利润的准确核算；2、确保财务报告符合会计信息质量要求（可靠性、相关性、可理解性、可比性、实质重于形式、重要性、谨慎性和及时性）； 3、抽检核算会计所有账务处理的正确性；4、月度检查所有会计科目，确保账务做到日清月结；5、发布月度、年度结账通知与计划；每月完成总账及分类账之间对账，完成财务结账；6、编制公司财务报告，按投资方或管理者的要求出具财务报告以...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "应收应付会计/总账会计",
+        "needMajor": [],
+        "number": "CC131989270J40812391105",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "4",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-15 13:59:22",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 0,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0131989273P90000001000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1239999888,
+          "lastOnlineTime": 1758274339008,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "14000100230000",
+        "subJobTypeLevelName": "会计",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "按时发薪"
+        ],
+        "workCity": "广州",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1785945599999,
+          "applyStartTime": 1754409600000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104092,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "中国土木工程集团有限公司",
+          "orgNumber": "KA0131584602P90000001000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          },
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/position/list/ui23/icon_property_country.png?w=156&h=48&r=3",
+            "label": "央国政",
+            "priority": 60,
+            "type": 40
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "489",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10086838,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1756173436094682172/8ee6f3030675ca34a64635afa8dd0d8a.jpg",
+        "companyName": "中国土木工程集团有限公司",
+        "companyNumber": "KA0131584602D90000004000",
+        "companyRootId": 104092,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "10000人以上",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0131584602P90000001000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "4816",
+          "lastReplyTimeText": "",
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-09-08 15:22:26",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "400030000"
+        ],
+        "industryName": "工程施工",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40754691416,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1757316146580,
+        "jobRootOrgInfo": {
+          "cityName": "北京"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "需求专业：财务管理、会计学专业。招聘条件：1.2026届全日制大学本科及以上学历应届毕业生；2.热爱土木工程事业，服从分配；沟通、组织协调能力强，有团队合作精神；3.诚实自信、积极主动、乐观向上、善于创新，具备良好心理素质；4.沟通、组织协调能力强，有团队合作精神；5.写作水平优秀者、文体特长者优先；6.外语基础好，能够用外语进行日常的语言和文字表达，原则上英语达到国家四级或以上水平。",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财务储备干部",
+        "needMajor": [],
+        "number": "CC131584600J40754691416",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 0,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "1",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-11 16:17:05",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 0,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0131584602P90000001000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1122463644,
+          "lastOnlineTime": 1758274839200,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "14000100230000",
+        "subJobTypeLevelName": "会计",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "全国",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "无经验"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1767196799999,
+          "applyStartTime": 1756051200000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104171,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "广东信源物流设备有限公司",
+          "orgNumber": "KA0141580496P90000001000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          },
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/position/list/ui23/icon_property_country.png?w=156&h=48&r=3",
+            "label": "央国政",
+            "priority": 60,
+            "type": 40
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "南沙",
+        "cityId": "763",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10086843,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1756174108772106442/c4b1beb01686659f950bd9cccb6e9584.jpg",
+        "companyName": "广东信源物流设备有限公司",
+        "companyNumber": "KA0141580496D90000001000",
+        "companyRootId": 104171,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "500-999人",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0141580496P90000001000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "289",
+          "lastReplyTimeText": "",
+          "staffAvgHandleResumeTime30d": 2015,
+          "staffHandleResumeCnts30d": 497,
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-08-29 10:41:29",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "500020000"
+        ],
+        "industryName": "电气机械/电力设备",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40820467412,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1756435289940,
+        "jobRootOrgInfo": {
+          "cityName": "广州"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "岗位职责：1.负责公司费用核算，审核各项费用原始单据的合法性，报销单据填写的完整性，审批流程的合规性；及时做好凭证的编制、登记、做到账证相符、账表相符；2.负责与业务部门的日常沟通，协助制定相关的费用控制措施，理顺相关流程，提高费用管理和控制水平；3.编制费用分析表，及时发现问题，并提出相应的改进措施和建议；4.负责公司采购发票财务核算，审核相关采购发票、进货单据，生成采购发票单据并出具凭证；5....",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "核算会计岗",
+        "needMajor": [],
+        "number": "CC141580490J40820467412",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "1",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-08-30 04:03:16",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 2,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0141580496P90000001000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "8000-12000元",
+        "salaryCount": "",
+        "salaryReal": "8000-12000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1121263714,
+          "lastOnlineTime": 1758263184167,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "14000100230000",
+        "subJobTypeLevelName": "会计",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "广州",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "无经验"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1785513599999,
+          "applyStartTime": 1756915200000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104268,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "越秀地产",
+          "orgNumber": "KA0292610922P90000003000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          },
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/position/list/ui23/icon_property_country.png?w=156&h=48&r=3",
+            "label": "央国政",
+            "priority": 60,
+            "type": 40
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "489",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10088778,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1757488053146537034/%25E8%25B6%258A%25E7%25A7%2580%25E6%259C%258D%25E5%258A%25A1logo.jpg",
+        "companyName": "越秀地产",
+        "companyNumber": "KA0292610922D90000010000",
+        "companyRootId": 104268,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "1000-9999人",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0292610922P90000003000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "2102",
+          "lastReplyTimeText": "",
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-09-11 16:02:53",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "200010000"
+        ],
+        "industryName": "房地产开发",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40818810702,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1757577773590,
+        "jobRootOrgInfo": {
+          "cityName": "广州"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "岗位描述：1、参与建立和完善公司财务管控体系，组织实施全面预算编制、财务核算及资金管控，强化资金运营效率管理和风险控制；深度开展经营数据分析，定期输出专项分析报告，为战略决策和业务优化提供财务支持；2、参与企业运营管理体系建设，涵盖关键节点流程管控、业务绩效评估机制设计、组织绩效优化及业绩考核方案实施，通过标准化建设和跨部门协同推动整体运营效率与组织效能的持续提升。岗位要求：1、专业不限，会计学、...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "职能管理类（财务运营方向）",
+        "needMajor": [],
+        "number": "CC292610920J40818810702",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 0,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "1",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-11 16:59:46",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 0,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0292610922P90000003000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "",
+          "hrStateInfo": "",
+          "id": 1212829605,
+          "lastOnlineTime": 1758029652539,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "8000100030000",
+        "subJobTypeLevelName": "管培生/储备干部",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "全国",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1786982399999,
+          "applyStartTime": 1755446400000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104130,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "华勤技术股份有限公司",
+          "orgNumber": "KA0134743144P90000003000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "489",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10085587,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1724059930362996799/%25E5%258D%258E%25E5%258B%25A4.jpg",
+        "companyName": "华勤技术股份有限公司",
+        "companyNumber": "KA0134743144D90000003000",
+        "companyRootId": 104130,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "10000人以上",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0134743144P90000003000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "学历不限",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "4019",
+          "lastReplyTimeText": "",
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-08-18 18:28:24",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "100060000"
+        ],
+        "industryName": "计算机硬件",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40784722807,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "按时发薪"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "工资月结"
+        ],
+        "jobPostingTime": 1755512904025,
+        "jobRootOrgInfo": {
+          "cityName": "上海"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "岗位描述：1、销售到回款全流程（合同、账期、对账、收款审核核销、开票、入账、逾期、周转）财务应收管理；2、物料采购到物料付款全流程（合同、账期、对账、付款审核、核销、入账、周转、预付款）财务应付管理；3、非材采购到付款全流程（合同、账期、对账、付款审核、核销、入账、预付款）财务应付管理；4、员工报销付款全流程（事前申请、报销规则、付款审核、入账、内控）管理；5、集团应收、应付、费用子模块月结及报表...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财务专员（2026届）",
+        "needMajor": [],
+        "number": "CC134743140J40784722807",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "上市公司",
+        "propertyCode": "9",
+        "propertyName": "上市公司",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-08-18 18:47:06",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 0,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0134743144P90000003000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "三日内活跃",
+          "hrStateInfo": "",
+          "id": 1110605060,
+          "lastOnlineTime": 1758075415462,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "14000100220000",
+        "subJobTypeLevelName": "财务专员/助理",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "按时发薪"
+        ],
+        "workCity": "全国",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "无经验"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1767196799999,
+          "applyStartTime": 1757865600000,
+          "applyTimeCountDown": "",
+          "companyLevel": 3,
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104345,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "佳兆业集团",
+          "orgNumber": "KA1511228550P90000001000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "489",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10090277,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1758008138039035090/%25E4%25BD%25B3%25E5%2585%2586%25E4%25B8%259Alogo.png",
+        "companyName": "佳兆业集团",
+        "companyNumber": "KA1511228550D90000013000",
+        "companyRootId": 104345,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "1000-9999人",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA1511228550P90000001000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "2",
+          "lastReplyTimeText": "",
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-09-18 16:43:56",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "1500030000"
+        ],
+        "industryName": "居民服务",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40831242912,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1758185036413,
+        "jobRootOrgInfo": {
+          "cityName": "香港"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "工作职责：1、会计核算与账务处理：审核原始凭证，及时准确编制记账凭证，登记明细账和总账，并定期进行账账、账实核对，保证账目清楚准确；2、财务报表编制与分析：按期（月、季、年）编制财务报表（如资产负债表、利润表、现金流量表），并进行财务分析，为管理层决策提供支持；3、税务管理：负责公司税务的筹划与管理，按时完成税务申报及年度审计工作，合理进行税务筹划以降低税负；4、资金管理与成本控制：负责现金、银行...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财务岗（2026届管培生）",
+        "needMajor": [],
+        "number": "CCL1511228550J40831242912",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "股份制企业",
+        "propertyCode": "9",
+        "propertyName": "股份制企业",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-19 10:30:32",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 0,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA1511228550P90000001000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1240793236,
+          "lastOnlineTime": 1758265569327,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "14000100220000",
+        "subJobTypeLevelName": "财务专员/助理",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "全国",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "无经验"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1788796799999,
+          "applyStartTime": 1757260800000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104296,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "国网数字科技控股有限公司（国网雄安金融科技集团有限公司）",
+          "orgNumber": "KA0346778535P90000002000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          },
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/position/list/ui23/icon_property_country.png?w=156&h=48&r=3",
+            "label": "央国政",
+            "priority": 60,
+            "type": 40
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "489",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10089471,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1757314316919076898/logo.png",
+        "companyName": "国网数字科技控股有限公司（国网雄安金融科技集团有限公司）",
+        "companyNumber": "KA0346778535D90000035000",
+        "companyRootId": 104296,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "1000-9999人",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0346778535P90000002000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "472",
+          "lastReplyTimeText": "",
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-09-18 14:19:43",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "100080000",
+          "100040000",
+          "100020000"
+        ],
+        "industryName": "IT服务",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40791327810,
+        "jobKeyword": {
+          "keywords": []
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1758176383421,
+        "jobRootOrgInfo": {
+          "cityName": "珠海"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "2026年大学本科及以上学历应届毕业生。截至2026年6月30日，博士研究生一般不超过33周岁，硕士研究生一般不超过28周岁，本科生一般不超过25周岁。专业为财务管理、会计学等相关专业。",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财务类（远光软件股份有限公司）",
+        "needMajor": [],
+        "number": "CC346778530J40791327810",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 0,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "1",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-19 04:03:13",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 0,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0346778535P90000002000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1174834001,
+          "lastOnlineTime": 1758260347508,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "9000300100000",
+        "subJobTypeLevelName": "IT技术/研发总监",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "全国",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "无经验"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1786982399999,
+          "applyStartTime": 1755446400000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104129,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "中国电建集团河南工程有限公司",
+          "orgNumber": "KA0818280733P90000001000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          },
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/position/list/ui23/icon_property_country.png?w=156&h=48&r=3",
+            "label": "央国政",
+            "priority": 60,
+            "type": 40
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "489",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10085596,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1755565984268730514/LOGO-1.png",
+        "companyName": "中国电建集团河南工程有限公司",
+        "companyNumber": "KA0818280733D90000001000",
+        "companyRootId": 104129,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "1000-9999人",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0818280733P90000001000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "3883",
+          "lastReplyTimeText": "",
+          "staffAvgHandleResumeTime30d": 1714,
+          "staffHandleResumeCnts30d": 30,
+          "staffReplyRate30d": 0.05,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-08-29 16:15:58",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "400030000"
+        ],
+        "industryName": "工程施工",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40834598908,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "五险一金"
+            },
+            {
+              "itemValue": "绩效奖金"
+            },
+            {
+              "itemValue": "包住"
+            },
+            {
+              "itemValue": "交通补助"
+            },
+            {
+              "itemValue": "带薪假期"
+            },
+            {
+              "itemValue": "弹性工作"
+            },
+            {
+              "itemValue": "体检福利"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1756455358360,
+        "jobRootOrgInfo": {
+          "cityName": "郑州"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "岗位职责：1.账务处理与核算：负责日常收支账务处理（如费用报销、款项支付、发票审核），依据会计准则登记明细账、总账，确保账务记录准确完整，及时核对银行流水与账目，保障账实相符。2.财务报表与数据：定期编制财务报表（资产负债表、利润表、现金流量表等），整理财务数据（成本、营收、费用）并进行初步分析，为财务决策提供基础数据支持；协助完成财务审计相关资料准备。3.税务与合规配合：协助处理税务申报（增值税...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财务会计",
+        "needMajor": [],
+        "number": "CC818280730J40834598908",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "1",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-01 11:53:11",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 5,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0818280733P90000001000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "5000-7000元",
+        "salaryCount": "",
+        "salaryReal": "5000-7000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "三日内活跃",
+          "hrStateInfo": "",
+          "id": 1131603973,
+          "lastOnlineTime": 1758192642258,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "14000100230000",
+        "subJobTypeLevelName": "会计",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "五险一金",
+          "绩效奖金",
+          "包住",
+          "交通补助",
+          "带薪假期",
+          "弹性工作",
+          "体检福利"
+        ],
+        "workCity": "全国",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1773244799999,
+          "applyStartTime": 1741708800000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 101374,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "中铁十二局集团华南工程有限公司",
+          "orgNumber": "KA1413561293P90000001000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          },
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/position/list/ui23/icon_property_country.png?w=156&h=48&r=3",
+            "label": "央国政",
+            "priority": 60,
+            "type": 40
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "489",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10024324,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1708321719972322905/LOGO.png",
+        "companyName": "中铁十二局",
+        "companyNumber": "KA1413561293D90000001000",
+        "companyRootId": 101374,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "1000-9999人",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA1413561293P90000001000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "3258",
+          "lastReplyTimeText": "",
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2024-02-19 15:21:54",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "400010000"
+        ],
+        "industryName": "建筑设备安装",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40534100809,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1708327314781,
+        "jobRootOrgInfo": {
+          "cityName": "广州"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "报名要求：1、招聘范围： 2023-2025届国内高校二本及以上学历毕业生或教育部认可的境外学校本科以及上学历毕业生；2、专业要求：会计学、财务管理、审计学等相关专业3、基本要求：身体健康，遵纪守法，品行端正，诚信廉洁，在校期间学习成绩优良；吃苦耐劳、服从公司统一调配，具有良好的学习能力、沟通能力、适应能力和团队合作精神，积极乐观，责任心强；4、优先条件：中共党员、学生干部、奖学金获得者、有相关实...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财务管理岗",
+        "needMajor": [],
+        "number": "CCL1413561290J40534100809",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": true,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "1",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-03-12 16:28:52",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 0,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA1413561293P90000001000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "",
+          "hrStateInfo": "",
+          "id": 1167179827,
+          "lastOnlineTime": 1757327656637,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "14000100030000",
+        "subJobTypeLevelName": "财务经理/主管",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "全国",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1786377599999,
+          "applyStartTime": 1754841600000,
+          "applyTimeCountDown": "",
+          "companyLevel": 3,
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104100,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "中国邮政储蓄银行股份有限公司",
+          "orgNumber": "KA0134220574P90000007000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "763",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10082465,
+        "companyLogo": "http://campusimage.zhaopin.com/CompanyLogo/20210609/20210609103922147229140.jpg",
+        "companyName": "中国邮政储蓄银行股份有限公司",
+        "companyNumber": "KA0134220574D90001028000",
+        "companyRootId": 104100,
+        "companyScaleTypeTagsNew": [
+          "已上市"
+        ],
+        "companySize": "10000人以上",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0134220574P90000007000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "硕士",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "249",
+          "lastReplyTimeText": "",
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-08-28 14:58:23",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "300070000"
+        ],
+        "industryName": "银行",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40821859312,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "集中培训"
+            },
+            {
+              "itemValue": "双通道晋升"
+            },
+            {
+              "itemValue": "晋升机制"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1756364303119,
+        "jobRootOrgInfo": {
+          "cityName": "北京"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "职位描述:2026年度总行审计分局校园招聘实施U⁺人才培养计划：1.入职提供系统性集中培训。2.安排一对一导师全程跟踪指导。3.提供丰富多样的内部流动路径。4.提供“管理+专业”双通道晋升机制。岗位职责:审计工作内容：1.参与各类审计项目，制定审计方案，实施具体审计项目，撰写审计文书，并督促整改意见反馈及整改措施的落实。2.参与审计相关系统管理，开展非现场监测等工作。3.参与制定银行各类业务审计的...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "经营管理岗",
+        "needMajor": [],
+        "number": "CC134220570J40821859312",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 0,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "11",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-02 00:12:40",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 0,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0134220574P90000007000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1195390770,
+          "lastOnlineTime": 1758281494403,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "8000100030000",
+        "subJobTypeLevelName": "管培生/储备干部",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "广州",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "无经验"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1786377599999,
+          "applyStartTime": 1754841600000,
+          "applyTimeCountDown": "",
+          "companyLevel": 3,
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104100,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "中国邮政储蓄银行股份有限公司",
+          "orgNumber": "KA0134220574P90000007000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "763",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10082084,
+        "companyLogo": "http://campusimage.zhaopin.com/CompanyLogo/20210609/20210609103922147229140.jpg",
+        "companyName": "中国邮政储蓄银行股份有限公司",
+        "companyNumber": "KA0134220574D90000647000",
+        "companyRootId": 104100,
+        "companyScaleTypeTagsNew": [
+          "已上市"
+        ],
+        "companySize": "10000人以上",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0134220574P90000007000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "117",
+          "lastReplyTimeText": "",
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-08-18 16:24:44",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "300070000"
+        ],
+        "industryName": "银行",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40815945912,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1755505484058,
+        "jobRootOrgInfo": {
+          "cityName": "广州"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "一、岗位描述主要在营业网点从事柜面业务办理、厅堂服务、客户需求识别推介等综合服务工作。培养方向主要为网点运营专家和综合金融服务专家，根据员工特长和业绩表现，可择优选聘至销售序列或分行专业序列发展。二、招聘条件符合招聘公告中要求的基本条件，同时满足以下条件：1.学历要求：国民教育系列大学本科及以上学历学位。留学人员应取得教育部留学服务中心的学历学位认证。2.专业要求：以金融、经济、信息技术、数理统计...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "客户服务经理",
+        "needMajor": [],
+        "number": "CC134220570J40815945912",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "11",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-02 00:11:51",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 0,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0134220574P90000007000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1195390770,
+          "lastOnlineTime": 1758281494403,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "12000300060000",
+        "subJobTypeLevelName": "客户经理",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "广州",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "无经验"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1785513599999,
+          "applyStartTime": 1756915200000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 104268,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "越秀地产",
+          "orgNumber": "KA0292610922P90000003000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          },
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/position/list/ui23/icon_property_country.png?w=156&h=48&r=3",
+            "label": "央国政",
+            "priority": 60,
+            "type": 40
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "489",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10088777,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1757572977197415423/%25E8%25B6%258A%25E7%25A7%2580%25E5%259C%25B0%25E4%25BA%25A7logo.jpg",
+        "companyName": "越秀地产",
+        "companyNumber": "KA0292610922D90000009000",
+        "companyRootId": 104268,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "1000-9999人",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0292610922P90000003000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "硕士",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "606",
+          "lastReplyTimeText": "",
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-09-11 16:02:53",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "200010000"
+        ],
+        "industryName": "房地产开发",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40818809402,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1757577773958,
+        "jobRootOrgInfo": {
+          "cityName": "广州"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "岗位描述：1、参与财务管理体系搭建、运营管理及制度优化工作；2、负责财务业务具体落地工作，协助财务制度编写、财务报表处理、税务风险识别，税收政策解读、财务分析、投融资管理等，提高公司管理效率；3、参与支持公司核心业务项目及经营工作，协同团队完成条线重点工作任务，确保事业计划达成。岗位要求：1、财务管理、会计学、税务、金融学等相关专业硕士研究生及以上学历；2、逻辑严谨，条理清晰，对数字敏感，善于分析...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财务资金",
+        "needMajor": [],
+        "number": "CC292610920J40818809402",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 0,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "1",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-11 16:49:34",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 0,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0292610922P90000003000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "",
+          "hrStateInfo": "",
+          "id": 1212829605,
+          "lastOnlineTime": 1758029652539,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "8000100030000",
+        "subJobTypeLevelName": "管培生/储备干部",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "全国",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1759247999999,
+          "applyStartTime": 1742745600000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 103785,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "马鞍山市人才综合服务中心(马鞍山市公共就业服务中心)",
+          "orgNumber": "KA1373479991P90000001000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          },
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/position/list/ui23/icon_property_gov.png?w=156&h=48&r=3",
+            "label": "央国政",
+            "priority": 60,
+            "type": 40
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "荔湾",
+        "cityId": "763",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10070806,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1746587093360584128/1746581692223.jpg",
+        "companyName": "慈湖高新区",
+        "companyNumber": "KA1373479991D90001527000",
+        "companyRootId": 103785,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA1373479991P90000001000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "231",
+          "lastReplyTimeText": "",
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-03-24 14:11:14",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "1400010000"
+        ],
+        "industryName": "政府/公共事业",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40729885807,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1742796674257,
+        "jobRootOrgInfo": {
+          "cityName": "马鞍山"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "2、负责登记现金、银行存款日记账并准确录入系统，按时编制银行存款余额调节表； 3、计算每月工资并按时发放； 4、存取款、借款、报销等现金和银行存款收支结算； 5、现金保管与盘点； 6、完成上级指派的其他工作． 任职要求： 1、大专以上学历，财务类、经贸类、金融类等专业优先； 2、已通过初级会计职称的优先； 3、工作保密性强，认真仔细，有责任感； 4、熟悉基础办公软件操作。",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财务助理",
+        "needMajor": [],
+        "number": "CCL1373479990J40729885807",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": true,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国家机关",
+        "propertyCode": "6",
+        "propertyName": "国家机关",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-05-09 11:53:28",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 1,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA1373479991P90000001000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "4000-6000元",
+        "salaryCount": "",
+        "salaryReal": "4000-6000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "",
+          "hrStateInfo": "",
+          "id": 1132328433,
+          "lastOnlineTime": 1756710000843,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "14000100050000",
+        "subJobTypeLevelName": "财务助理",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "广州",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1767196799999,
+          "applyStartTime": 1757347200000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 103188,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "中国二十二冶集团有限公司",
+          "orgNumber": "KA0387334828P90000002000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          },
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/position/list/ui23/icon_property_country.png?w=156&h=48&r=3",
+            "label": "央国政",
+            "priority": 60,
+            "type": 40
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "763",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10045117,
+        "companyLogo": "https://storage-public.zhaopin.cn/campus/newrd/online/1725322926894440008/%25E4%25BA%258C%25E5%258D%2581%25E4%25BA%258C%25E5%2586%25B6.jpg",
+        "companyName": "中国二十二冶集团有限公司",
+        "companyNumber": "KA0387334828D90000037000",
+        "companyRootId": 103188,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "10000人以上",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0387334828P90000002000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "123",
+          "lastReplyTimeText": "",
+          "staffAvgHandleResumeTime30d": 13539,
+          "staffHandleResumeCnts30d": 530,
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2025-09-07 09:14:05",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "400030000"
+        ],
+        "industryName": "工程施工",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40712566206,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1757207645595,
+        "jobRootOrgInfo": {
+          "cityName": "广州"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "基本条件：1.具有较强的相关专业知识和一定的实践经验，能熟练地使用计算机操作系统及办公软件。2.身体健康，心理素质好，普通话标准，具备良好的沟通能力，适应建筑行业工作；3.政治立场坚定，道德品质优良，职业操守过硬；认同中国二十二冶企业文化，具有创新意识和团队合作精神，服从分配。学历要求：本科一批及以上专业要求：会计学、财务管理、金融学、经济学等。",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财务科员",
+        "needMajor": [],
+        "number": "CC387334820J40712566206",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 0,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "国企",
+        "propertyCode": "1",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-07 09:14:05",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 0,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0387334828P90000002000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "三日内活跃",
+          "hrStateInfo": "",
+          "id": 1002843504,
+          "lastOnlineTime": 1758108484626,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "14000100080000",
+        "subJobTypeLevelName": "成本会计",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "广州",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "无经验"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": {
+          "applyEndTime": 1758988799999,
+          "applyStartTime": 1727452800000,
+          "applyTimeCountDown": "",
+          "countDownBackColor": "",
+          "countDownFontColor": ""
+        },
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": {
+          "address": "",
+          "businessLicenceName": "",
+          "cityName": "",
+          "description": "",
+          "displayOrgName": "",
+          "hideCampusElement": false,
+          "hideJobApplyLable": false,
+          "id": 103373,
+          "industryName": "",
+          "introUrl": "",
+          "logo": "",
+          "oldRdOrgNumber": "",
+          "orgName": "北京注册会计师协会",
+          "orgNumber": "KA0622554624P90000002000",
+          "orgSizeName": "",
+          "orgTypeName": "",
+          "slaveDisplayOrgName": ""
+        },
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_jd_wangshen_3x.png?w=147&h=48&r=3",
+            "label": "校招",
+            "priority": 50,
+            "type": 10
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "",
+        "cityId": "489",
+        "commercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 10051377,
+        "companyLogo": "https://storage-public.zhaopin.cn/user/avatar/1609927974520246506/src%3Dhttp___file.comcoc.com_credit_bigDATA_2018-10-24_e899e26b079899c32c1b4fe8aff8b99e.jpg%26refer%3Dhttp___file.comcoc.jpg",
+        "companyName": "北京注册会计师协会",
+        "companyNumber": "KA0622554624D90000039000",
+        "companyRootId": 103373,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "1000-9999人",
+        "companyUrl": "https://xiaoyuan.zhaopin.com/company/KA0622554624P90000002000",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "286",
+          "lastReplyTimeText": "",
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "name": ""
+        },
+        "firstPublishTime": "2024-10-14 10:21:12",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "1400020000"
+        ],
+        "industryName": "社团/组织/社会保障",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40668633610,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1728872472761,
+        "jobRootOrgInfo": {
+          "cityName": "北京"
+        },
+        "jobSkillTags": [
+          {
+            "id": 19365708,
+            "name": "股权评估",
+            "standard": false
+          },
+          {
+            "id": 270073148,
+            "name": "企业价值",
+            "standard": false
+          },
+          {
+            "id": 300040793,
+            "name": "资产评估师",
+            "standard": false
+          },
+          {
+            "id": 270060248,
+            "name": "资产评估",
+            "standard": false
+          }
+        ],
+        "jobSummary": "岗位要求：1、资产评估、财务会计、财务管理、数学、审计、工程造价及相关专业本科以上学历；2、良好的沟通能力和计算机应用能力，能适应经常出差；3、有较强的学习能力与环境适应能力；勤恳、细心、严谨、逻辑思维清晰；4、精通财务分析、报表审核、估值测算等财务性工作要求；5、精通资产评估项目运作，精通业务流程；6、通过部分或全部CPV考试、有相关工作经验的优先考虑。岗位职责：1、协助部门经理/项目经理完成各...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_jd_recommend.png?w=156&h=54&r=3",
+          "matched": 1,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "资产评估助理",
+        "needMajor": [],
+        "number": "CC622554620J40668633610",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "organizer": false,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 2,
+            "typeName": "网申",
+            "typeShowLabel": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 2,
+        "positionSourceTypeUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/ui23/tag_jd_xiao_3x.png?w=81&h=48&r=3",
+        "positionURL": "",
+        "positionUrl": "",
+        "property": "事业单位",
+        "propertyCode": "5",
+        "propertyName": "事业单位",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2024-10-14 10:21:12",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 10,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "KA0622554624P90000002000",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "面议",
+        "salaryCount": "",
+        "salaryReal": "0-0",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "股权评估"
+          },
+          {
+            "state": 0,
+            "value": "企业价值"
+          },
+          {
+            "state": 0,
+            "value": "资产评估师"
+          },
+          {
+            "state": 0,
+            "value": "资产评估"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "http://img09.zhaopin.cn/2012/other/mobile/position/list/hr_88.png",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "",
+          "hrStateInfo": "",
+          "id": 1212609660,
+          "lastOnlineTime": 1734665907499,
+          "lastOnlineTimeText": "",
+          "staffName": "HR"
+        },
+        "streetId": 0,
+        "streetName": "",
+        "subJobTypeLevel": "12000200200000",
+        "subJobTypeLevelName": "资产评估",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "全国",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      }
+    ],
+    "majorHaveJd": false,
+    "method": "-",
+    "methodGroup": "config-position_search-position_campus_query-default",
+    "modularState": 1,
+    "nullException": "",
+    "positionExperimentInfo": null,
+    "promptCopy": {
+      "filter": {
+        "subTitle": "",
+        "title": ""
+      },
+      "general": {
+        "subTitle": "",
+        "title": ""
+      },
+      "generalNull": {
+        "subTitle": "",
+        "title": ""
+      },
+      "line": {
+        "hasRecommend": "",
+        "noRecommend": ""
+      },
+      "purpose": {
+        "subTitle": "",
+        "title": ""
+      },
+      "searchLineAccuracy": {
+        "hasAccuracy": "为您推荐“会计”其他相近结果",
+        "noAccuracy": "为您推荐“会计”相近结果",
+        "recommend": "未找到相关职位，根据求职意向推荐以下职位"
+      }
+    },
+    "purposeOptimize": null,
+    "relatedExperiment": "",
+    "relatedPosition": null,
+    "relatedTrace": "",
+    "searchLineAccuracyExperiment": "",
+    "sortTypes": [
+      {
+        "code": "DEFAULT",
+        "name": "智能排序"
+      },
+      {
+        "code": "HR_ACTIVE_TIME",
+        "name": "HR活跃时间"
+      },
+      {
+        "code": "JOB_PUBLISH_TIME",
+        "name": "职位发布时间"
+      }
+    ],
+    "studyMajor": "",
+    "todayInterviewCardInfo": {
+      "badgeIcon": "",
+      "bottomIcon": "",
+      "buttonName": "",
+      "experimentGroup": "",
+      "showCard": false,
+      "title": ""
+    },
+    "todayInterviewSearchInfo": {
+      "experimentGroup": "",
+      "showFilterBar": false
+    },
+    "typeSearch": 0
+  },
+  "statusCode": 200,
+  "statusDescription": "成功",
+  "taskId": "09613c3ec52fb8ca6b61fa913f94076e"
+}

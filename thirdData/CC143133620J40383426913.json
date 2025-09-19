@@ -1,0 +1,592 @@
+{
+  "main": {
+    "positionDetail": {
+      "address": "",
+      "addressType": 0,
+      "alreadyCallPhone": false,
+      "applyType": "1",
+      "blueCollarJobTitle": "",
+      "campusApplyTimeInfo": {
+        "applyEndTime": "",
+        "applyStartTime": "",
+        "applyTimeCountDown": "",
+        "countDownBackColor": "#12FA5555",
+        "countDownFontColor": "#FFFA5555",
+        "jobBenefits": []
+      },
+      "canBeRegular": false,
+      "canRemoteInternship": false,
+      "chatWindow": 1,
+      "chatWindowState": 0,
+      "customIndustry": [
+        {
+          "itemCode": 300070000,
+          "name": "银行",
+          "standard": true
+        },
+        {
+          "itemCode": 300010000,
+          "name": "保险",
+          "standard": true
+        },
+        {
+          "itemCode": 300040000,
+          "name": "基金",
+          "standard": true
+        }
+      ],
+      "customJobGroup": "DEFAULT",
+      "dateEnd": "2025-11-11 00:00:00",
+      "dateStart": "2025-07-11 14:23:57",
+      "deliveredPreviously": 0,
+      "deliveredPreviouslyTip": "",
+      "deliveryPath": "https://campus1.zhaopin.com/Resume/CheckIntoApp?pid=CC143133620J40383426913",
+      "displayPhoneNumber": false,
+      "distanceSubways": [],
+      "districtStreetWorkAddress": "",
+      "education": "大专",
+      "educationCode": "5",
+      "emplTypeCode": 2,
+      "externalLink": false,
+      "firstPublishTime": "2023-03-06 17:27:37",
+      "hasAppliedPosition": false,
+      "hasHighlight": 2,
+      "internshipMonths": 0,
+      "isApprovedInvestment": 0,
+      "jobCompanyId": 14313362,
+      "jobDesc": "【职业定位】:<br>1、健康财富规划师(HWP)是泰康打造的全新职业，承接泰康“保险+医疗+养老+健康+纪念园（墓地）”战略，专业化服务于高净值人群全生命周期，提供一站式养老、健康、财富管理解决方案，是呵护生命的幸福使者。<br>2、泰康打造的健康财富规划职业正式获批国家职业资质，《健康财富规划职业技能等级标准》获批第三批1+X证书制度试点职业技能等级标准，《健康财富规划职业技能等级证书》获批第三批职业技能等级证书。<br><br>【任职要求】:<br>1、年龄:25-45岁；<br>2、学历:本科及以上，特别优秀者可放宽至大专；<br>3、过往收入:12万/年及以上(需提供收入证明或银行流水)；<br>4、从业背景:金融、律师、医生、教培、房产、会计等相关行业优先；<br>5、品质要求:业务品质良好，无不良从业记录及刑事、金融等犯罪记录。<br><br>【薪酬/福利保障项目】:<br>1、超高责任津贴，长达18个月；<br>2、首年度佣金、续年度佣金、优质续保奖、增员奖、增才奖、销售奖等收入项目；<br>3、商业保险保障：意外伤残及身故保险、疾病身故保险、住院医疗保险(不含急、门诊)、意外伤害医疗保险等保险保障项目；<br>4、公积金项目:泰康为提高代理人待遇而自行建立的公积金项目，区别于劳动关系中的住房公积金等社会保障项目；<br>5、享受公司各阶段推出的各类奖励方案:包含培训、旅游等等。 <br>注:以上收入及保障项目，获取细则见泰康基本法及相关文件，以上月薪范围为当下HWP代理人薪资参考，具体薪资收入及构成面议。<br><br>【岗位优势】:<br>1、收入特征:上不封顶，百万年薪不是梦<br>2、晋升机制:公开、公平、透明，专属基本法保障<br>3、时间管理:除必要参加培训、活动等安排之外，其余时间自行展业<br>4、完善的培训体系:专业销售培训、职业认证培训、专属体验式培训<br>5、互联武装:代理人专属掌上销售利器一泰行销<br>",
+      "jobDescHighlight": "【职业定位】:<br>1、健康财富规划师(HWP)是泰康打造的全新职业，承接泰康“保险+医疗+养老+健康+纪念园（墓地）”战略，专业化服务于高净值人群全生命周期，提供一站式养老、健康、财富管理解决方案，是呵护生命的幸福使者。<br>2、泰康打造的健康财富规划职业正式获批国家职业资质，《健康财富规划职业技能等级标准》获批第三批1+X证书制度试点职业技能等级标准，《健康财富规划职业技能等级证书》获批第三批职业技能等级证书。<br><br>【任职要求】:<br>1、年龄:25-45岁；<br>2、学历:本科及以上，特别优秀者可放宽至大专；<br>3、过往收入:12万/年及以上(需提供收入证明或银行流水)；<br>4、从业背景:金融、律师、医生、教培、房产、会计等相关行业优先；<br>5、品质要求:业务品质良好，无不良从业记录及刑事、金融等犯罪记录。<br><br>【薪酬/福利保障项目】:<br>1、超高责任津贴，长达18个月；<br>2、首年度佣金、续年度佣金、优质续保奖、增员奖、增才奖、销售奖等收入项目；<br>3、商业保险保障：意外伤残及身故保险、疾病身故保险、住院医疗保险(不含急、门诊)、意外伤害医疗保险等保险保障项目；<br>4、公积金项目:泰康为提高代理人待遇而自行建立的公积金项目，区别于劳动关系中的住房公积金等社会保障项目；<br>5、享受公司各阶段推出的各类奖励方案:包含培训、旅游等等。 <br>注:以上收入及保障项目，获取细则见泰康基本法及相关文件，以上月薪范围为当下HWP代理人薪资参考，具体薪资收入及构成面议。<br><br>【岗位优势】:<br>1、收入特征:上不封顶，百万年薪不是梦<br>2、晋升机制:公开、公平、透明，专属基本法保障<br>3、时间管理:除必要参加培训、活动等安排之外，其余时间自行展业<br>4、完善的培训体系:专业销售培训、职业认证培训、专属体验式培训<br>5、互联武装:代理人专属掌上销售利器一泰行销<br>",
+      "jobDescHighlightBigCard": "",
+      "jobKeyWordWelfareTags": [
+        "优质续保奖",
+        "增员奖",
+        "身故保险",
+        "疾病身故保险",
+        "医疗保险",
+        "意外伤害医疗保险",
+        "公积金",
+        "住房公积金",
+        "各类奖励",
+        "奖励方案",
+        "晋升机制",
+        "完善的培训体系",
+        "认证培训",
+        "体验式培训"
+      ],
+      "jobKeyword": {
+        "keywords": [
+          {
+            "itemValue": ""
+          },
+          {
+            "itemValue": ""
+          },
+          {
+            "itemValue": "优质续保奖"
+          },
+          {
+            "itemValue": "增员奖"
+          },
+          {
+            "itemValue": "意外险"
+          },
+          {
+            "itemValue": "补充医疗保险"
+          },
+          {
+            "itemValue": "补充医疗保险"
+          },
+          {
+            "itemValue": "意外险"
+          },
+          {
+            "itemValue": "公积金"
+          },
+          {
+            "itemValue": "住房公积金"
+          },
+          {
+            "itemValue": "各类奖励"
+          },
+          {
+            "itemValue": "奖励方案"
+          },
+          {
+            "itemValue": "晋升机制"
+          },
+          {
+            "itemValue": "完善的培训体系"
+          },
+          {
+            "itemValue": "认证培训"
+          },
+          {
+            "itemValue": "体验式培训"
+          }
+        ]
+      },
+      "jobSkillTags": [
+        {
+          "id": 19495017,
+          "name": "资深销售",
+          "standard": false
+        },
+        {
+          "id": 19368289,
+          "name": "大客户销售",
+          "standard": false
+        }
+      ],
+      "jobTarget": {
+        "effectiveExposureSupplement": {
+          "beginTime": 0,
+          "endTime": 0,
+          "exposureSupplementType": ""
+        }
+      },
+      "jobType": "2070000",
+      "jobTypeLevel": "12000300000000",
+      "jobTypeLevelName": "银行及金融服务",
+      "knowledgeWordsBigCard": [
+        "拓展培训",
+        "住房公积金",
+        "商业医疗险",
+        "商业保险"
+      ],
+      "latitude": "29.555179",
+      "longitude": "106.575139",
+      "needMajor": [],
+      "noFeeCommitmentState": "UNSET",
+      "onlineCarFlag": 2,
+      "onlineCarInfo": [],
+      "originalJobTitle": "",
+      "performanceBonus": "",
+      "positionCityDistrict": "渝中区",
+      "positionCityDistrictCode": "2312",
+      "positionCityId": "551",
+      "positionCommercialLabel": [],
+      "positionDeliveryType": "NONE",
+      "positionHighlight": "",
+      "positionId": 40383426913,
+      "positionName": "健康财富规划师(HWP)（代理制）",
+      "positionNumber": "CC143133620J40383426913",
+      "positionPublishTime": "2025-07-11 14:23:57",
+      "positionSourceType": 1,
+      "positionSourceTypeUrl": "",
+      "positionStatus": 3,
+      "positionURL": "http://jobs.zhaopin.com/CC143133620J40383426913.htm",
+      "positionUpdateTime": "2025-07-11 14:23:57",
+      "positionUpdateTimeText": "",
+      "positionUrl": "http://jobs.zhaopin.com/CC143133620J40383426913.htm",
+      "positionWorkCity": "重庆",
+      "positionWorkingExp": "不限",
+      "positionWorkingExpCode": "-1",
+      "propertyType": "7",
+      "propertyTypeUrl": "",
+      "provideInternshipCertificate": false,
+      "recruitNumber": 10,
+      "recruitPosition": 0,
+      "reviewEnvironment": false,
+      "rpoProxied": false,
+      "rpoProxy": false,
+      "rpoProxyDisplayOrgName": "",
+      "salary60": "1.2-2.4万",
+      "salaryCount": "",
+      "salaryReal": "12001-24000",
+      "salaryType": 1,
+      "saleType": 0,
+      "skillLabel": [
+        {
+          "state": 0,
+          "value": "资深销售"
+        },
+        {
+          "state": 0,
+          "value": "大客户销售"
+        }
+      ],
+      "skillTags": [],
+      "staticMapUrl": "https://storage-public.zhaopin.cn/job/share/1752111769237274120/1a7801d03e8847aaa08300c2b2ec0eb7",
+      "streetId": 50010302,
+      "streetName": "解放碑",
+      "subJobType": "188",
+      "subJobTypeLevel": "12000300070000",
+      "subJobTypeLevelName": "理财顾问",
+      "superHotJob": false,
+      "superJobType": {
+        "firstLevel": {
+          "id": 12000000000000,
+          "name": "金融/保险"
+        },
+        "secondLevel": {
+          "id": 12000300000000,
+          "name": "银行及金融服务"
+        },
+        "thirdLevel": {
+          "id": 12000300070000,
+          "name": "理财顾问"
+        }
+      },
+      "todayInterview": false,
+      "todayInterviewBottomTip": "工作日16:00-24:00、双休日及法定节假日投递，平台要求招聘方最晚在下个工作日回复，合适的投递将会约面试",
+      "todayInterviewCount": 0,
+      "todayInterviewImageUrl": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/detail/todayInterviewPositionDetail.png?w=210&h=548&r=3",
+      "todayInterviewImageUrlSmall": "https://img09.zhaopin.cn/2012/other/mobile/capp/position/detail/todayInterviewPositionDetailSmall.png?w=145&h=48&r=3",
+      "todayInterviewTitleTipList": [
+        "100%回复，当天约面试"
+      ],
+      "tradingArea": "",
+      "travelMode": "bus",
+      "weeklyInternshipDays": 0,
+      "welfareLabel": [],
+      "welfareTags": [
+        "体验式培训",
+        "住房公积金",
+        "医疗保险",
+        "商业保险"
+      ],
+      "workAddress": "重庆市渝中区民权路28号英利大厦16-17层",
+      "workMode": "ONSITE",
+      "workType": "全职"
+    },
+    "companyDetail": {
+      "abroadFlag": 2,
+      "abroadLabel": "",
+      "abroadTipInfo": {
+        "abroadTips": [],
+        "icon": "",
+        "title": ""
+      },
+      "auditNature": null,
+      "bestEmployerLabel": [],
+      "bestEmployerType": 0,
+      "businessLicenseName": "泰康人寿保险有限责任公司重庆分公司",
+      "cityName": "重庆",
+      "companyBehaviorState": {
+        "blacklistState": 0,
+        "favoriteState": 0,
+        "negativeState": 0
+      },
+      "companyDescription": "泰康保险集团股份有限公司(前身为泰康人寿保险股份有限公司)成立于1996年，总部位于北京，是一家涵盖保险、资管、医养三大核心业务的大型保险金融服务集团。截至2016年底，管理资产超过10800亿元。 泰康保险集团始终坚持“市场化、专业化、规范化、国际化”理念，坚定实施“大健康+互联网”战略。通过遍布全国的3900个线下实体网络、线上互联网平台以及60万员工和营销员队伍，依托“活力养老、高端医疗、卓越理财、终极关怀”四位一体的商业模式，打造O2O大健康生态系统，提供保险、资管、医养全方位服务。致力于成为全球领先的保险金融服务集团，让保险更安心、更便捷、更实惠，让人们更健康、更长寿、更富足，让泰康成为人们幸福生活的一部分。        泰康保险集团旗下拥有泰康人寿、泰康资产、泰康养老、泰康之家、泰康健康、泰康在线等多家公司。业务范围全面涵盖寿险、互联网财险、养老保险、企业年金、资产管理、医疗养老、健康管理、商业不动产、海外业务等多个领域。二十年来，集团累计服务客户规模已达1.85亿，累计理赔金额258亿元，承担风险保额近50万亿元，累计纳税281亿元，连续十三年荣登“中国企业500强”。         2002年5月16日，泰康人寿重庆分公司开业成立。经过十五年专业创新驱动、稳健发展，泰康人寿重庆分公司已成长为重庆市场上名列前茅的保险公司，累计规模保费245亿元，累计理赔金额1.47亿余元，累计有效投保人超过29万人次，累计赔付客户2.8万余人次，连续十三年荣获“售后服务先进单位”称号。全辖设有1家重庆营销本部，万州、江津、涪陵、永川、黔江5家中心支公司，以及46家各级机构。 十五年的成长，泰康人寿重庆分公司牢牢把握住每一个发展契机，实现了“快速发展不失稳健，稳健经营不乏创新”的跨越式发展；十五年，泰康人寿重庆分公司从小到大，由弱变强；目前有个险、银保、电销、经代4条业务系列，年保费规模从开业初年的7062万元增加至2016年底的34亿余元，增长近50倍，年复合增长率达到243.8%。 ",
+      "companyId": 14313362,
+      "companyLogo": "https://storage-public.zhaopin.cn/CompanyLogo/20170619/02710164D18589E97F643B81A737C38D.jpg",
+      "companyName": "泰康人寿保险有限责任公司重庆分公司",
+      "companyNumber": "CZ143133620",
+      "companyRankingTag": "",
+      "companyRootId": 14313362,
+      "companyScaleTypeTagsNew": [],
+      "companyShotName": "泰康人寿保险有限责任公司重庆分公司",
+      "companySize": "500-999人",
+      "companySizeCode": "4",
+      "companyUrl": "http://company.zhaopin.com/P3/CC1431/3362/CC143133623.htm",
+      "dataByAiGenerationSmartDescription": "",
+      "famousEnterpriseLabelUrl": "",
+      "financingStage": 1,
+      "financingStageName": "未融资",
+      "industryLevel": "300010000,800120000",
+      "industryNameLevel": "保险,咨询服务",
+      "kgDisplayShortName": "",
+      "menVipLevel": 0,
+      "menVipUrl": "",
+      "modularState": 0,
+      "offWorkTime": "",
+      "onWorkTime": "",
+      "onlinePositionNumbers": 2,
+      "orgBestRanking": {
+        "backgroundImgUrl": "",
+        "backgroundUrl": "",
+        "bestListJumpUrl": "",
+        "cupImgUrl": "",
+        "deliveryText": "",
+        "electOfficial": "",
+        "iconUrl": "",
+        "reason": "",
+        "settleTime": "",
+        "value": ""
+      },
+      "orgEvaluates": [
+        {
+          "content": "公司评分4.8",
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_score_3x.png?w=36&h=36&r=3",
+          "subContent": "16条评价",
+          "tagIndex": "0"
+        },
+        {
+          "content": "11条工资内容",
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_wage_3x.png?w=36&h=36&r=3",
+          "subContent": "",
+          "tagIndex": "3"
+        },
+        {
+          "content": "13条公司问答",
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_q_a_3x.png?w=36&h=36&r=3",
+          "subContent": "",
+          "tagIndex": "1"
+        }
+      ],
+      "orgEvaluatesNew": [
+        {
+          "content": "公司评价16条",
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_score_3x.png?w=36&h=36&r=3",
+          "subContent": "",
+          "tagIndex": "0"
+        },
+        {
+          "content": "工资内容11条",
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_wage_3x.png?w=36&h=36&r=3",
+          "subContent": "",
+          "tagIndex": "3"
+        },
+        {
+          "content": "公司问答13条",
+          "icon": "http://img09.zhaopin.cn/2012/other/mobile/position/list/icon_q_a_3x.png?w=36&h=36&r=3",
+          "subContent": "",
+          "tagIndex": "1"
+        }
+      ],
+      "orgPreferenceHr": false,
+      "orgReliableCompany": null,
+      "overTimeCondition": [],
+      "partnershipOrg": {
+        "partnershipType": ""
+      },
+      "property": "其它",
+      "propertyCode": "7",
+      "rankingType": "",
+      "restTime": [
+        {
+          "id": 10030,
+          "name": "周末双休"
+        }
+      ],
+      "reviewOrgNature": 1,
+      "ventureRisk": false,
+      "videoUrl": "",
+      "workTimeType": "",
+      "workingEnvironmentPictures": [],
+      "displayOrgName": "",
+      "orgNumber": "",
+      "hideCampusElement": false,
+      "brightSpotLabel": [
+        "五险一金",
+        "绩效奖金",
+        "定期体检",
+        "补充医疗保险",
+        "全勤奖",
+        "带薪年假",
+        "节日福利"
+      ]
+    },
+    "positionBehaviorState": {
+      "deliveredPreviously": 0,
+      "deliveryState": 0,
+      "favoriteState": 0,
+      "followHrState": 0,
+      "imReplyState": -1,
+      "negativeState": 0,
+      "sessionChatState": 0
+    },
+    "partTimeList": [],
+    "positionNumber": "CC143133620J40383426913",
+    "complainTypeList": [],
+    "userInfo": {
+      "isLoggedIn": true,
+      "addressCityCode": "",
+      "addressCityName": "",
+      "age": 27,
+      "birthday": "1998-1",
+      "cityDistrictId": 2039,
+      "cityId": 765,
+      "cityName": "深圳",
+      "countryId": 489,
+      "createTime": 1666192485080,
+      "currentIdentity": "1",
+      "currentStatus": "1",
+      "currentStatusTranslationCN": "在校-正在找工作",
+      "currentStatusTranslationEN": "Looking for a job",
+      "customName": "",
+      "detailStatus": "",
+      "eduDisplay": "硕士",
+      "eduDisplayEn": "Master",
+      "eduLevel": 3,
+      "email": "",
+      "emailVerified": "1",
+      "enName": "",
+      "extId": "JH506040394",
+      "headImg": "https://mypics.zhaopin.cn//avatar/2022/11/8/38874f7d-d48d-4dce-b80c-b425c7f1844c.jpeg",
+      "headImgType": 1,
+      "homeAddress": "",
+      "homeLatitude": 0,
+      "homeLongitude": 0,
+      "hukouCity": 765,
+      "hukouProvince": 548,
+      "id": 1150604039,
+      "industryJobTypeConfirmType": "",
+      "isBinding": 1,
+      "isBindingSuishoupin": "",
+      "isTalk": true,
+      "jobSeekerIdentity": "1",
+      "maritalStatus": 0,
+      "mobilePhone": "159****5233",
+      "name": "王军",
+      "over30Day": true,
+      "phone": "159****5233",
+      "photoIsReal": "2",
+      "politicalAffiliation": "5",
+      "provinceId": 548,
+      "regType": 1,
+      "resumes": [
+        {
+          "cnCompleteReal": true,
+          "cnCompleted": 11084,
+          "cnFirstCompletedDate": 1666438007760,
+          "cnSource": 84,
+          "confidentialStatus": 2,
+          "createDate": "2022-10-22",
+          "createTimeLong": 1666437733707,
+          "defaultType": 0,
+          "disclosureLevel": 2,
+          "enCompleteReal": false,
+          "enCompleted": 10036,
+          "enSource": 36,
+          "id": "479617368",
+          "integrity": 84,
+          "integrityEng": 36,
+          "language": "0",
+          "modifiedDate": 1737095824483,
+          "name": "在线简历",
+          "number": "F72C5E18A8ED6D5FE7BACABEFF6CD8BCC59D30A8BBDA1841D55E2064C331645118A767D2CDFC6BFE94144A9C2565F11E_A0001",
+          "postStatus": 3,
+          "postStatusReal": 1,
+          "publishStatus": 1,
+          "resumeFlag": 3,
+          "resumeSourceId": "0",
+          "resumeType": 1,
+          "updateDate": "2025-01-17",
+          "version": "1"
+        }
+      ],
+      "sex": "男",
+      "sexType": 1,
+      "startWorking": "2017-07",
+      "talk": false,
+      "unifiedPurposeIsShow": "",
+      "useDefaultHeadImage": false,
+      "userIdentify": "-1",
+      "weChatName": "",
+      "workYears": 8,
+      "wpsLevel": "",
+      "wpsLevelName": ""
+    },
+    "resumeNumber": "F72C5E18A8ED6D5FE7BACABEFF6CD8BCC59D30A8BBDA1841D55E2064C331645118A767D2CDFC6BFE94144A9C2565F11E_A0001",
+    "similarPositionList": [],
+    "positionError": false,
+    "resumeButtonForCampusPcJobDetail": {
+      "description": "使用AI简历优化功能，快速提升简历质量~",
+      "icon": "https://img09.zhaopin.com/2012/other/mobile/campus-pc/resume-customization/icon-resume-optimization.png",
+      "jumpUrl": "https://i.zhaopin.com/resume?source=campus",
+      "name": "待完善在线简历"
+    }
+  },
+  "user": {
+    "userInfo": {
+      "isLoggedIn": true,
+      "addressCityCode": "",
+      "addressCityName": "",
+      "age": 27,
+      "birthday": "1998-1",
+      "cityDistrictId": 2039,
+      "cityId": 765,
+      "cityName": "深圳",
+      "countryId": 489,
+      "createTime": 1666192485080,
+      "currentIdentity": "1",
+      "currentStatus": "1",
+      "currentStatusTranslationCN": "在校-正在找工作",
+      "currentStatusTranslationEN": "Looking for a job",
+      "customName": "",
+      "detailStatus": "",
+      "eduDisplay": "硕士",
+      "eduDisplayEn": "Master",
+      "eduLevel": 3,
+      "email": "",
+      "emailVerified": "1",
+      "enName": "",
+      "extId": "JH506040394",
+      "headImg": "https://mypics.zhaopin.cn//avatar/2022/11/8/38874f7d-d48d-4dce-b80c-b425c7f1844c.jpeg",
+      "headImgType": 1,
+      "homeAddress": "",
+      "homeLatitude": 0,
+      "homeLongitude": 0,
+      "hukouCity": 765,
+      "hukouProvince": 548,
+      "id": 1150604039,
+      "industryJobTypeConfirmType": "",
+      "isBinding": 1,
+      "isBindingSuishoupin": "",
+      "isTalk": true,
+      "jobSeekerIdentity": "1",
+      "maritalStatus": 0,
+      "mobilePhone": "159****5233",
+      "name": "王军",
+      "over30Day": true,
+      "phone": "159****5233",
+      "photoIsReal": "2",
+      "politicalAffiliation": "5",
+      "provinceId": 548,
+      "regType": 1,
+      "resumes": [
+        {
+          "cnCompleteReal": true,
+          "cnCompleted": 11084,
+          "cnFirstCompletedDate": 1666438007760,
+          "cnSource": 84,
+          "confidentialStatus": 2,
+          "createDate": "2022-10-22",
+          "createTimeLong": 1666437733707,
+          "defaultType": 0,
+          "disclosureLevel": 2,
+          "enCompleteReal": false,
+          "enCompleted": 10036,
+          "enSource": 36,
+          "id": "479617368",
+          "integrity": 84,
+          "integrityEng": 36,
+          "language": "0",
+          "modifiedDate": 1737095824483,
+          "name": "在线简历",
+          "number": "F72C5E18A8ED6D5FE7BACABEFF6CD8BCC59D30A8BBDA1841D55E2064C331645118A767D2CDFC6BFE94144A9C2565F11E_A0001",
+          "postStatus": 3,
+          "postStatusReal": 1,
+          "publishStatus": 1,
+          "resumeFlag": 3,
+          "resumeSourceId": "0",
+          "resumeType": 1,
+          "updateDate": "2025-01-17",
+          "version": "1"
+        }
+      ],
+      "sex": "男",
+      "sexType": 1,
+      "startWorking": "2017-07",
+      "talk": false,
+      "unifiedPurposeIsShow": "",
+      "useDefaultHeadImage": false,
+      "userIdentify": "-1",
+      "weChatName": "",
+      "workYears": 8,
+      "wpsLevel": "",
+      "wpsLevelName": ""
+    },
+    "resumeCompleteData": {
+      "educationExpIsComplete": true,
+      "educationExpIsEmpty": false,
+      "profileIsComplete": true,
+      "purposeIsComplete": true,
+      "purposeIsEmpty": false,
+      "resumeIsComplete": true,
+      "workExpIsComplete": true,
+      "workExpIsEmpty": false
+    }
+  }
+}
