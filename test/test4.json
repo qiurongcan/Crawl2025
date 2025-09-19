@@ -1,0 +1,6694 @@
+{
+  "data": {
+    "abGroupType": "",
+    "attachments": {
+      "searchNullMethodGroup": "",
+      "searchNullMethod": ""
+    },
+    "campusTypeSearch": 0,
+    "count": 337,
+    "dataIdentity": "61d0956c81c6474587838af44a0ebaec",
+    "filter": false,
+    "intentionalWords": [
+      "职位",
+      "专业"
+    ],
+    "isApprovedInvestment": 0,
+    "isEndPage": 0,
+    "isVerification": 0,
+    "jobTypes": {
+      "filterTags": [],
+      "main": [],
+      "sub": []
+    },
+    "kw": "",
+    "list": [
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "碑林",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 87805708,
+        "companyLogo": "https://storage-public.zhaopin.cn/org/logo/1750249750791267703/87805708.png",
+        "companyName": "陕西金账通财务咨询有限公司",
+        "companyNumber": "CZ878057080",
+        "companyRootId": 87805708,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "20-99人",
+        "companyUrl": "http://company.zhaopin.com/CZ878057080.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "大专",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "30",
+          "lastReplyTime": 1758183781204,
+          "lastReplyTimeText": "",
+          "staffAvgFirstResponseTime7d": 1215,
+          "staffAvgHandleResumeTime30d": 6743,
+          "staffHandleResumeCnts30d": 7,
+          "staffReplyRate30d": 0.03,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 8,
+          "name": "不需要融资"
+        },
+        "firstPublishTime": "2025-08-28 17:27:45",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "800010000"
+        ],
+        "industryName": "财务/审计/税务",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40775648309,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1756373265868,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 19845161,
+            "name": "CTA注册税务师",
+            "standard": false
+          }
+        ],
+        "jobSummary": "一、岗位职责（一）带领项目经理开展税务咨询服务、企业所得税汇算清缴、土地增值税鉴证等业务；（二）为企业和团队制定培训课程及开展涉税培训；（三）协助部门经理完成各项工作。二、任职要求（一）具有丰富的涉税服务经验，持有税务师证书优先；（二）财务会计、税收或法学类专业毕业，有3年及以上财务、涉税或法律工作经验；（三）具有团队协助精神，良好的表达沟通能力;（四）服从公司安排，可适应出差。给公司税务师事务所...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "注册税务师",
+        "needMajor": [],
+        "number": "CC878057080J40775648309",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CC878057080J40775648309.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CC878057080J40775648309.htm",
+        "property": "民营",
+        "propertyCode": "5",
+        "propertyName": "民营",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-18 15:30:28",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 1,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZ878057080",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "7000-12000元",
+        "salaryCount": "",
+        "salaryReal": "7001-12000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "CTA注册税务师"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_f2.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "刚刚活跃",
+          "hrStateInfo": "",
+          "id": 1104649621,
+          "lastOnlineTime": 1758296197705,
+          "lastOnlineTimeText": "",
+          "staffName": "张妮妮"
+        },
+        "streetId": 61010308,
+        "streetName": "张家村",
+        "subJobTypeLevel": "14000100170000",
+        "subJobTypeLevelName": "税务",
+        "subways": [
+          {
+            "distance": 923,
+            "latitude": 34.222653,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.933298,
+            "stationId": 101498,
+            "stationName": "吉祥村"
+          },
+          {
+            "distance": 1171,
+            "latitude": 34.241154,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.933281,
+            "stationId": 201925,
+            "stationName": "省人民医院·黄雁村"
+          },
+          {
+            "distance": 1360,
+            "latitude": 34.241135,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.923387,
+            "stationId": 201924,
+            "stationName": "边家村"
+          },
+          {
+            "distance": 1444,
+            "latitude": 34.232378,
+            "lineId": 101470,
+            "lineName": "2号线",
+            "longitude": 108.946796,
+            "stationId": 101484,
+            "stationName": "体育场"
+          },
+          {
+            "distance": 1457,
+            "latitude": 34.225653,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.916648,
+            "stationId": 101497,
+            "stationName": "太白南路"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "未央",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 38610113,
+        "companyLogo": "https://storage-public.zhaopin.cn/org/logo/1715311824862164988/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20200514155525.png",
+        "companyName": "上海慕帆动力科技有限公司",
+        "companyNumber": "CZ386101130",
+        "companyRootId": 38610113,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "20-99人",
+        "companyUrl": "http://company.zhaopin.com/CZ386101130.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "5",
+          "lastReplyTime": 1757553422428,
+          "lastReplyTimeText": "",
+          "reply24h": 13,
+          "staffAvgFirstResponseTime7d": 2589,
+          "staffAvgHandleResumeTime30d": 3840,
+          "staffHandleResumeCnts30d": 173,
+          "staffReplyRate30d": 0.81,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 3,
+          "name": "A轮"
+        },
+        "firstPublishTime": "2024-04-07 17:51:48",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "1100050000"
+        ],
+        "industryName": "电气机械/电力设备",
+        "industryTags": [
+          "500020000",
+          "1100040000",
+          "1100010000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 500020000,
+              "name": "电气机械/电力设备",
+              "standard": true
+            },
+            {
+              "itemCode": 1100040000,
+              "name": "石油/石化",
+              "standard": true
+            },
+            {
+              "itemCode": 1100010000,
+              "name": "电力/水利/热力/燃气",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40554677305,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "培训活动"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "拓展培训"
+        ],
+        "jobPostingTime": 1712483508101,
+        "jobRootOrgInfo": {
+          "cityName": "上海"
+        },
+        "jobSkillTags": [],
+        "jobSummary": "一、岗位职责：1、开拓所负责区域及行业的涡轮动力项目，负责区域内市场开发、客户维护、项目跟进；2、收集所在市场行业信息，及时了解市场动态，竞争对手信息，及时向公司汇报并完成相关报告； 3、客户拜访、与客户进行技术及商务谈判；根据客户要求编制报价单，参与销售合同制定工作；4、配合销售管理，做好相关手续资料的准备，收集和初审、及交货期跟进，及协助会计部催讨货款；5、配合应用工程师跟进项目后期情况，处理...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "销售工程师",
+        "needMajor": [],
+        "number": "CC386101130J40554677305",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CC386101130J40554677305.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CC386101130J40554677305.htm",
+        "property": "民营",
+        "propertyCode": "5",
+        "propertyName": "民营",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-07-17 00:48:20",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 1,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZ386101130",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "6000-8000元",
+        "salaryCount": "",
+        "salaryReal": "6001-8000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_m3.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1197343402,
+          "lastOnlineTime": 1758276706188,
+          "lastOnlineTimeText": "",
+          "staffName": "刘"
+        },
+        "streetId": 61011211,
+        "streetName": "徐家湾",
+        "subJobTypeLevel": "19000200090000",
+        "subJobTypeLevelName": "销售工程师",
+        "subways": [
+          {
+            "distance": 128,
+            "latitude": 34.352431,
+            "lineId": 101470,
+            "lineName": "2号线",
+            "longitude": 108.947695,
+            "stationId": 203370,
+            "stationName": "凤城十路"
+          },
+          {
+            "distance": 128,
+            "latitude": 34.352431,
+            "lineId": 101470,
+            "lineName": "2号线",
+            "longitude": 108.947695,
+            "stationId": 101473,
+            "stationName": "运动公园"
+          },
+          {
+            "distance": 1037,
+            "latitude": 34.362016,
+            "lineId": 101470,
+            "lineName": "2号线",
+            "longitude": 108.945214,
+            "stationId": 101472,
+            "stationName": "北苑"
+          },
+          {
+            "distance": 1362,
+            "latitude": 34.340983,
+            "lineId": 101470,
+            "lineName": "2号线",
+            "longitude": 108.947329,
+            "stationId": 101474,
+            "stationName": "行政中心"
+          },
+          {
+            "distance": 1362,
+            "latitude": 34.340983,
+            "lineId": 103207,
+            "lineName": "4号线",
+            "longitude": 108.947329,
+            "stationId": 103226,
+            "stationName": "行政中心"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "校园",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "长安",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 150233547,
+        "companyLogo": "",
+        "companyName": "西安铸远鼎昇科技有限公司",
+        "companyNumber": "CZL1502335470",
+        "companyRootId": 150233547,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "20-99人",
+        "companyUrl": "http://company.zhaopin.com/CZL1502335470.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "大专",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "24",
+          "lastReplyTime": 1756173427518,
+          "lastReplyTimeText": "",
+          "reply24h": 12,
+          "staffAvgFirstResponseTime7d": 176,
+          "staffAvgHandleResumeTime30d": 499,
+          "staffHandleResumeCnts30d": 54,
+          "staffReplyRate30d": 0.68,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 8,
+          "name": "不需要融资"
+        },
+        "firstPublishTime": "2025-08-19 17:40:43",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "800010000"
+        ],
+        "industryName": "财务/审计/税务",
+        "industryTags": [
+          "1200020000",
+          "100160000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 1200020000,
+              "name": "培训/辅导服务",
+              "standard": true
+            },
+            {
+              "itemCode": 100160000,
+              "name": "在线教育",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40880160815,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "技能培训"
+            },
+            {
+              "itemValue": "大牛带队"
+            },
+            {
+              "itemValue": "无责底薪"
+            },
+            {
+              "itemValue": "提成"
+            },
+            {
+              "itemValue": "法定节假日"
+            },
+            {
+              "itemValue": "带薪假期"
+            },
+            {
+              "itemValue": "五险"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "无责底薪",
+          "带薪假期",
+          "法定节假日休",
+          "五险"
+        ],
+        "jobPostingTime": 1755596443018,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 19845257,
+            "name": "职业与技能培训",
+            "standard": false
+          },
+          {
+            "id": 19368385,
+            "name": "线上授课",
+            "standard": false
+          }
+        ],
+        "jobSummary": "招纳合伙人！接受没有直播经验的小白，公司有专业的运营团队，一对一手把手老带新！3年内，公司培养的年入50万年薪主播老师近百位！如果您热爱教育，诚挚的邀请加入我们，开放的平台，开放的团队，不画饼不洗脑，踏踏实实做教育！按照收益分成，多劳多得！期待您的加入！您的具体岗位职责：1.负责考证类线上课程的直播和变现（会计、建造师、导游、教资、社工/社区招聘、注册安全工程师、药师执业、公考）2.直播内容的备课...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "注册安全工程师线上讲师",
+        "needMajor": [],
+        "number": "CCL1502335470J40880160815",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CCL1502335470J40880160815.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CCL1502335470J40880160815.htm",
+        "property": "民营",
+        "propertyCode": "5",
+        "propertyName": "民营",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-15 15:49:38",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 10,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZL1502335470",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "8000-16000元",
+        "salaryCount": "",
+        "salaryReal": "8001-16000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "职业与技能培训"
+          },
+          {
+            "state": 0,
+            "value": "线上授课"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_f4.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事专员",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1230525491,
+          "lastOnlineTime": 1758282655412,
+          "lastOnlineTimeText": "",
+          "staffName": "卢女士"
+        },
+        "streetId": 61011605,
+        "streetName": "韦曲",
+        "subJobTypeLevel": "11000900070000",
+        "subJobTypeLevelName": "培训师",
+        "subways": [
+          {
+            "distance": 876,
+            "latitude": 34.154352,
+            "lineId": 103207,
+            "lineName": "4号线",
+            "longitude": 108.974509,
+            "stationId": 103225,
+            "stationName": "东长安街"
+          },
+          {
+            "distance": 1402,
+            "latitude": 34.162362,
+            "lineId": 103207,
+            "lineName": "4号线",
+            "longitude": 108.974436,
+            "stationId": 103228,
+            "stationName": "飞天路"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "大牛带队",
+          "无责底薪",
+          "提成",
+          "法定节假日",
+          "带薪假期",
+          "五险"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "无经验"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "雁塔",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 129566434,
+        "companyLogo": "https://storage-public.zhaopin.cn/org/logo/1669434643070724399/71e058f429dccbb19304f82ed174e3e.jpg",
+        "companyName": "西安睿凡绅人力资源管理有限公司",
+        "companyNumber": "CZL1295664340",
+        "companyRootId": 129566434,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "20-99人",
+        "companyUrl": "http://company.zhaopin.com/CZL1295664340.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "学历不限",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "459",
+          "lastReplyTime": 1758247443918,
+          "lastReplyTimeText": "",
+          "reply24h": 60,
+          "staffAvgFirstResponseTime7d": 1487,
+          "staffAvgHandleResumeTime30d": 732,
+          "staffHandleResumeCnts30d": 275,
+          "staffReplyRate30d": 0.88,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 999,
+          "name": ""
+        },
+        "firstPublishTime": "2025-08-26 21:41:17",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "800080000"
+        ],
+        "industryName": "人力资源服务",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40749345316,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "五险一金"
+            },
+            {
+              "itemValue": "法定节假日"
+            },
+            {
+              "itemValue": "节日慰问"
+            },
+            {
+              "itemValue": "带薪假期"
+            },
+            {
+              "itemValue": "无责底薪"
+            },
+            {
+              "itemValue": "无责底薪"
+            },
+            {
+              "itemValue": "劳动合同"
+            },
+            {
+              "itemValue": "周末双休"
+            },
+            {
+              "itemValue": "法定工作时间"
+            },
+            {
+              "itemValue": "按时发薪"
+            },
+            {
+              "itemValue": "奖金"
+            },
+            {
+              "itemValue": "工作奖金"
+            },
+            {
+              "itemValue": "专项奖金"
+            },
+            {
+              "itemValue": "额外奖励"
+            },
+            {
+              "itemValue": "项目奖金"
+            },
+            {
+              "itemValue": "底薪加绩效"
+            },
+            {
+              "itemValue": "绩效奖金"
+            },
+            {
+              "itemValue": "包住"
+            },
+            {
+              "itemValue": "社保"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "五险一金",
+          "无责底薪",
+          "奖金加提成",
+          "法定节假日休",
+          "带薪假期",
+          "包住",
+          "按时发薪",
+          "节日福利",
+          "绩效奖金",
+          "可预支薪水",
+          "五险",
+          "项目奖金"
+        ],
+        "jobPostingTime": 1756215677391,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 21
+        },
+        "jobSkillTags": [
+          {
+            "id": 270060246,
+            "name": "资料管理",
+            "standard": false
+          },
+          {
+            "id": 19492890,
+            "name": "公文写作",
+            "standard": false
+          },
+          {
+            "id": 19493090,
+            "name": "五险一金",
+            "standard": false
+          },
+          {
+            "id": 19845830,
+            "name": "法定节假日休",
+            "standard": false
+          },
+          {
+            "id": 19493096,
+            "name": "节日福利",
+            "standard": false
+          }
+        ],
+        "jobSummary": "职位概况：所有法假正常休--只多休，不少休带薪年假--只多休，不少休早十晚七--到点准时下班纯无责底薪保障--绝无套路文员--安安静静看电脑(都可以不用说话)-一综合均薪5000绝对一一不客服--不电销-一不做招聘--不拉人-不打电话一-没有销售性质正规公司--五险一金!划重点:--全部工作内容-一只做“审核筛选优秀人才简历”--即可!划重点:--本岗位非常适合---这样的人一-1、性格偏内向，不...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "办公室文员*月5000五险一金*不接打电话不销售",
+        "needMajor": [],
+        "number": "CCL1295664340J40749345316",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 0,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CCL1295664340J40749345316.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CCL1295664340J40749345316.htm",
+        "property": "民营",
+        "propertyCode": "5",
+        "propertyName": "民营",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-12 15:23:34",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 10,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZL1295664340",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "5000-6000元",
+        "salaryCount": "",
+        "salaryReal": "5001-6000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "资料管理"
+          },
+          {
+            "state": 0,
+            "value": "公文写作"
+          },
+          {
+            "state": 0,
+            "value": "五险一金"
+          },
+          {
+            "state": 0,
+            "value": "法定节假日休"
+          },
+          {
+            "state": 0,
+            "value": "节日福利"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://storage-public.zhaopin.cn/user/avatar/1757077889442512537/f7cdeb77-651e-4e3d-8754-6589163e3341.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "招聘经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "刚刚活跃",
+          "hrStateInfo": "",
+          "id": 1146482843,
+          "lastOnlineTime": 1758288418372,
+          "lastOnlineTimeText": "",
+          "staffName": "王先生"
+        },
+        "streetId": 61011305,
+        "streetName": "丈八沟",
+        "subJobTypeLevel": "14000700060000",
+        "subJobTypeLevelName": "秘书/文员",
+        "subways": [
+          {
+            "distance": 331,
+            "latitude": 34.212194,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.892319,
+            "stationId": 201939,
+            "stationName": "木塔寺"
+          },
+          {
+            "distance": 1157,
+            "latitude": 34.223365,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.899248,
+            "stationId": 201938,
+            "stationName": "甘家寨"
+          },
+          {
+            "distance": 1345,
+            "latitude": 34.20311,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.889926,
+            "stationId": 201940,
+            "stationName": "省体育馆"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "五险一金",
+          "法定节假日",
+          "节日慰问",
+          "带薪假期",
+          "无责底薪",
+          "周末双休",
+          "法定工作时间",
+          "按时发薪",
+          "绩效奖金",
+          "包住"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img09.zhaopin.com/2012/other/mobile/position/list/ui23/icon_property_country.png?w=156&h=48&r=3",
+            "label": "央国政",
+            "priority": 60,
+            "type": 40
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "鄠邑",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 19520132,
+        "companyLogo": "",
+        "companyName": "中国诚通供应链服务有限公司",
+        "companyNumber": "CZ195201320",
+        "companyRootId": 19520132,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "20-99人",
+        "companyUrl": "http://company.zhaopin.com/CC195201322.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "大专",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "107",
+          "lastReplyTimeText": "",
+          "staffAvgHandleResumeTime30d": 1972,
+          "staffHandleResumeCnts30d": 59,
+          "staffReplyRate30d": 0.03,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 1,
+          "name": "未融资"
+        },
+        "firstPublishTime": "2024-09-19 16:17:40",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "1000020000"
+        ],
+        "industryName": "货运/物流/仓储",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40334519301,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "绩效奖金"
+            },
+            {
+              "itemValue": "高温补贴"
+            },
+            {
+              "itemValue": "节日慰问"
+            },
+            {
+              "itemValue": "通讯补助"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "通讯补贴",
+          "节日福利",
+          "高温补贴",
+          "绩效奖金"
+        ],
+        "jobPostingTime": 1726733860000,
+        "jobRootOrgInfo": {
+          "cityName": "西安"
+        },
+        "jobSkillTags": [
+          {
+            "id": 300003171,
+            "name": "统计",
+            "standard": false
+          },
+          {
+            "id": 300027099,
+            "name": "信息化",
+            "standard": false
+          }
+        ],
+        "jobSummary": "任职要求： 1、大专及以上学历，会计、统计、信息化、物流管理相关专业； 2、在生产制造业有工作经验的求职者优先； 3、在大型企业有过统计工作经验的求职者优先。职位福利：绩效奖金、高温补贴、节日福利、通讯补助",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "稽核员",
+        "needMajor": [],
+        "number": "CC195201320J40334519301",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CC195201320J40334519301.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CC195201320J40334519301.htm",
+        "property": "国企",
+        "propertyCode": "1",
+        "propertyName": "国企",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-05-13 09:55:49",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 2,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZ195201320",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "4000-6000元",
+        "salaryCount": "",
+        "salaryReal": "4001-6000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "统计"
+          },
+          {
+            "state": 0,
+            "value": "信息化"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_f2.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "招聘经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "",
+          "hrStateInfo": "",
+          "id": 203225165,
+          "lastOnlineTime": 1757484631754,
+          "lastOnlineTimeText": "",
+          "staffName": "戈晓茹"
+        },
+        "streetId": 61011802,
+        "streetName": "余下",
+        "subJobTypeLevel": "14000500040000",
+        "subJobTypeLevelName": "合规稽查",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "绩效奖金",
+          "高温补贴",
+          "节日慰问",
+          "通讯补助"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "雁塔",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 151155904,
+        "companyLogo": "https://storage-public.zhaopin.cn/org/logo/1758192263101141552/%E4%B9%BE%E5%85%83%E5%A4%A9%E6%88%90%E6%B0%B4%E5%8D%B0logo.jpg",
+        "companyName": "陕西乾元天成企业管理有限公司",
+        "companyNumber": "CZL1511559040",
+        "companyRootId": 151155904,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "20-99人",
+        "companyUrl": "http://company.zhaopin.com/CZL1511559040.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "学历不限",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "",
+          "lastReplyTime": 1758276830996,
+          "lastReplyTimeText": "",
+          "reply24h": 36,
+          "staffAvgFirstResponseTime7d": 2,
+          "staffAvgHandleResumeTime30d": 2,
+          "staffHandleResumeCnts30d": 1,
+          "staffReplyRate30d": 0.5,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 8,
+          "name": ""
+        },
+        "firstPublishTime": "2025-09-19 11:55:21",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [],
+        "industryName": "财务/审计/税务",
+        "industryTags": [
+          "100070000",
+          "800120000",
+          "800010000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 100070000,
+              "name": "企业服务",
+              "standard": true
+            },
+            {
+              "itemCode": 800120000,
+              "name": "咨询服务",
+              "standard": true
+            },
+            {
+              "itemCode": 800010000,
+              "name": "财务/审计/税务",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40794791207,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "高绩效"
+            },
+            {
+              "itemValue": "提成"
+            },
+            {
+              "itemValue": "绩效奖金"
+            },
+            {
+              "itemValue": "法定节假日"
+            },
+            {
+              "itemValue": "带薪假期"
+            },
+            {
+              "itemValue": "节日慰问"
+            },
+            {
+              "itemValue": "社保"
+            },
+            {
+              "itemValue": "生日会福利"
+            },
+            {
+              "itemValue": "定期团建"
+            },
+            {
+              "itemValue": "节日慰问"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "绩效奖金"
+        ],
+        "jobPostingTime": 1758254121067,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 270061826,
+            "name": "电话销售",
+            "standard": false
+          },
+          {
+            "id": 270067915,
+            "name": "网络销售",
+            "standard": false
+          },
+          {
+            "id": 270070942,
+            "name": "渠道销售",
+            "standard": false
+          }
+        ],
+        "jobSummary": "一、职位名称：财税顾问 / 财税客户经理 二、职位类型： 全职 三、部门： 销售与咨询部 四、工作地点： 西安市雁塔区译创国际大厦A座五、关于我们： “乾元天成”是一家专注于为企业提供一站式财税与法律解决方案的现代化服务机构。我们致力于通过专业的代理记账、税务合规规划、财税咨询及法律顾问服务，助力企业健康发展，规避风险，实现价值最大化。我们正在寻找志同道合的伙伴，共同成长，服务客户。 六、主要职责...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财税顾问/财税客户经理/销售",
+        "needMajor": [],
+        "number": "CCL1511559040J40794791207",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CCL1511559040J40794791207.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CCL1511559040J40794791207.htm",
+        "property": "民营",
+        "propertyCode": "5",
+        "propertyName": "民营",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-19 11:55:21",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 1,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZL1511559040",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "6000-12000元",
+        "salaryCount": "",
+        "salaryReal": "6001-12000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "电话销售"
+          },
+          {
+            "state": 0,
+            "value": "网络销售"
+          },
+          {
+            "state": 0,
+            "value": "渠道销售"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_m3.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "行政人事总监",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "刚刚活跃",
+          "hrStateInfo": "",
+          "id": 1241268870,
+          "lastOnlineTime": 1758292662913,
+          "lastOnlineTimeText": "",
+          "staffName": "刘先生"
+        },
+        "streetId": 61011305,
+        "streetName": "丈八沟",
+        "subJobTypeLevel": "19000200100000",
+        "subJobTypeLevelName": "销售顾问",
+        "subways": [
+          {
+            "distance": 1388,
+            "latitude": 34.237379,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.873214,
+            "stationId": 101494,
+            "stationName": "丈八北路"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "提成",
+          "绩效奖金",
+          "法定节假日",
+          "带薪假期",
+          "节日慰问",
+          "社保",
+          "定期团建"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "无经验"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "未央",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 147269363,
+        "companyLogo": "https://storage-public.zhaopin.cn/org/logo/1750248440300949100/147269363.png",
+        "companyName": "江西奥米商务信息咨询有限公司",
+        "companyNumber": "CZL1472693630",
+        "companyRootId": 147269363,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "20人以下",
+        "companyUrl": "http://company.zhaopin.com/CZL1472693630.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "学历不限",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "160",
+          "lastReplyTime": 1758242574383,
+          "lastReplyTimeText": "",
+          "reply24h": 208,
+          "staffAvgFirstResponseTime7d": 579,
+          "staffAvgHandleResumeTime30d": 2480,
+          "staffHandleResumeCnts30d": 1756,
+          "staffReplyRate30d": 0.01,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 0,
+          "name": ""
+        },
+        "firstPublishTime": "2025-09-18 08:48:55",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "300030000"
+        ],
+        "industryName": "互联网金融/小额贷款",
+        "industryTags": [
+          "800010000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 800010000,
+              "name": "财务/审计/税务",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40813583205,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "周末双休"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "周末双休"
+        ],
+        "jobPostingTime": 1758156535423,
+        "jobRootOrgInfo": {
+          "cityName": "南昌",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 19495099,
+            "name": "周末双休",
+            "standard": false
+          }
+        ],
+        "jobSummary": "岗位内容： 1. 负责现金收付、银行存取现金等日常收支管理工作，以及银行流水记录、记账等财务工作。2. 协助完成月度报表、年度结清的工作。3. 及时识别并解决公司内部资金流动异常问题。任职要求：1. 具备财务出纳相关经验，熟练掌握财务会计知识。2. 熟悉各类票据收付及银行系统操作，同时掌握相关税务法规。3. 具备较强的应对突发情况的能力，能够主动妥善处理公司内部资金留存问题，并与其他部门保持关注沟...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "出纳文员",
+        "needMajor": [],
+        "number": "CCL1472693630J40813583205",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CCL1472693630J40813583205.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CCL1472693630J40813583205.htm",
+        "property": "",
+        "propertyCode": "0",
+        "propertyName": "",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-19 08:13:34",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 1,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZL1472693630",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "6000-7000元",
+        "salaryCount": "",
+        "salaryReal": "6001-7000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "周末双休"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://storage-public.zhaopin.cn/user/avatar/1711100110642673854/89d6c6bc-cc04-4b26-b564-2f756e9ca36c.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 1,
+          "hrOnlineState": "当前在线",
+          "hrStateInfo": "",
+          "id": 1194692456,
+          "lastOnlineTime": 1758298438739,
+          "lastOnlineTimeText": "",
+          "staffName": "熊银邦"
+        },
+        "streetId": 61011209,
+        "streetName": "大明宫",
+        "subJobTypeLevel": "14000100100000",
+        "subJobTypeLevelName": "出纳",
+        "subways": [
+          {
+            "distance": 228,
+            "latitude": 34.317189,
+            "lineId": 103207,
+            "lineName": "4号线",
+            "longitude": 108.971599,
+            "stationId": 103234,
+            "stationName": "余家寨"
+          },
+          {
+            "distance": 805,
+            "latitude": 34.308233,
+            "lineId": 103207,
+            "lineName": "4号线",
+            "longitude": 108.971554,
+            "stationId": 103216,
+            "stationName": "大明宫北"
+          },
+          {
+            "distance": 1239,
+            "latitude": 34.32649,
+            "lineId": 103207,
+            "lineName": "4号线",
+            "longitude": 108.971649,
+            "stationId": 103233,
+            "stationName": "百花村"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "周末双休"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "雁塔",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 139355193,
+        "companyLogo": "https://storage-public.zhaopin.cn/org/logo/1750160268866800054/139355193.png",
+        "companyName": "陕西青研云信息科技有限责任公司",
+        "companyNumber": "CZL1393551930",
+        "companyRootId": 139355193,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "20-99人",
+        "companyUrl": "http://company.zhaopin.com/CZL1393551930.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "大专",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "19",
+          "lastReplyTime": 1758264393780,
+          "lastReplyTimeText": "",
+          "reply24h": 246,
+          "staffAvgFirstResponseTime7d": 1250,
+          "staffAvgHandleResumeTime30d": 909,
+          "staffHandleResumeCnts30d": 408,
+          "staffReplyRate30d": 0.62,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 1,
+          "name": "未融资"
+        },
+        "firstPublishTime": "2023-03-06 16:52:32",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "100040000"
+        ],
+        "industryName": "IT服务",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40467328515,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "五险一金"
+            },
+            {
+              "itemValue": "年终奖"
+            },
+            {
+              "itemValue": "绩效奖金"
+            },
+            {
+              "itemValue": "全勤奖"
+            },
+            {
+              "itemValue": "带薪假期"
+            },
+            {
+              "itemValue": "节日慰问"
+            },
+            {
+              "itemValue": "法定工作时间"
+            },
+            {
+              "itemValue": "法定工作时间"
+            },
+            {
+              "itemValue": "周末双休"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "五险一金",
+          "绩效奖金",
+          "带薪假期",
+          "节日福利",
+          "全勤奖金",
+          "周末双休",
+          "十三薪"
+        ],
+        "jobPostingTime": 1678092752298,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 300056775,
+            "name": "仪器管理",
+            "standard": false
+          },
+          {
+            "id": 270060719,
+            "name": "技术支持",
+            "standard": false
+          },
+          {
+            "id": 270064962,
+            "name": "设备维护",
+            "standard": false
+          },
+          {
+            "id": 18959468,
+            "name": "医疗设备",
+            "standard": false
+          },
+          {
+            "id": 18959487,
+            "name": "通信设备",
+            "standard": false
+          },
+          {
+            "id": 19368648,
+            "name": "办公设备",
+            "standard": false
+          },
+          {
+            "id": 19368906,
+            "name": "家电设备",
+            "standard": false
+          },
+          {
+            "id": 19368901,
+            "name": "电源设备",
+            "standard": false
+          }
+        ],
+        "jobSummary": "岗位职责1.负责对设备，设施进行安全检查2.负责设备日常的安装维护3.进行综合维修的日常工作4.为提供技术支持，对设备的选用提供合理的建议5.办公写字楼里办公，不是车间岗位要求1.大专以上学历即可2.会计算机软件基本操作3.学习动手能力强 ，有团队协助精神 职位福利待遇：五险一金、年底双薪、绩效奖金、全勤奖、带薪年假、节日福利、不加班、早九晚六，周末双休 职位亮点：工作氛围好",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "电子仪器维修工程师",
+        "needMajor": [],
+        "number": "CCL1393551930J40467328515",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CCL1393551930J40467328515.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CCL1393551930J40467328515.htm",
+        "property": "民营",
+        "propertyCode": "5",
+        "propertyName": "民营",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-16 01:52:37",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 4,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZL1393551930",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "5000-7000元",
+        "salaryCount": "",
+        "salaryReal": "5001-7000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "仪器管理"
+          },
+          {
+            "state": 0,
+            "value": "技术支持"
+          },
+          {
+            "state": 0,
+            "value": "设备维护"
+          },
+          {
+            "state": 0,
+            "value": "医疗设备"
+          },
+          {
+            "state": 0,
+            "value": "通信设备"
+          },
+          {
+            "state": 0,
+            "value": "办公设备"
+          },
+          {
+            "state": 0,
+            "value": "家电设备"
+          },
+          {
+            "state": 0,
+            "value": "电源设备"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_f4.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "hr",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1130128259,
+          "lastOnlineTime": 1758276353216,
+          "lastOnlineTimeText": "",
+          "staffName": "李红妍"
+        },
+        "streetId": 61011305,
+        "streetName": "丈八沟",
+        "subJobTypeLevel": "20000200120000",
+        "subJobTypeLevelName": "电子/电器设备工程师",
+        "subways": [
+          {
+            "distance": 457,
+            "latitude": 34.23126,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.904211,
+            "stationId": 101496,
+            "stationName": "科技路"
+          },
+          {
+            "distance": 457,
+            "latitude": 34.23126,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.904211,
+            "stationId": 201937,
+            "stationName": "科技路"
+          },
+          {
+            "distance": 1088,
+            "latitude": 34.240356,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.910224,
+            "stationId": 201923,
+            "stationName": "西北工业大学"
+          },
+          {
+            "distance": 1088,
+            "latitude": 34.240356,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.910224,
+            "stationId": 201936,
+            "stationName": "西北工业大学"
+          },
+          {
+            "distance": 1230,
+            "latitude": 34.223365,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.899248,
+            "stationId": 201938,
+            "stationName": "甘家寨"
+          },
+          {
+            "distance": 1279,
+            "latitude": 34.2372,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.887444,
+            "stationId": 101495,
+            "stationName": "延平门"
+          },
+          {
+            "distance": 1322,
+            "latitude": 34.246188,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.899929,
+            "stationId": 201922,
+            "stationName": "丰庆公园"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "五险一金",
+          "年终奖",
+          "绩效奖金",
+          "全勤奖",
+          "带薪假期",
+          "节日慰问",
+          "法定工作时间",
+          "周末双休"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "1年以下"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img05.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_CV_juli.png?w=78&h=48&r=3",
+            "label": "代招岗位",
+            "priority": 80,
+            "type": 23
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "雁塔",
+        "cityId": "854",
+        "commercialLabel": [
+          {
+            "type": 23,
+            "typeName": "代招岗位",
+            "typeShowLabel": "https://img05.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_CV_juli.png?w=78&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 62266823,
+        "companyLogo": "https://rd5-public.zhaopin.cn/imgs/company/e17111c2a85fd644bb9ff5a4b920f229.png",
+        "companyName": "西安鑫汇优人力资源有限公司",
+        "companyNumber": "CZ622668230",
+        "companyRootId": 62266823,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "300-499人",
+        "companyUrl": "http://company.zhaopin.com/CZ622668230.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "大专",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "1",
+          "lastReplyTime": 1758269130043,
+          "lastReplyTimeText": "",
+          "reply24h": 115,
+          "staffAvgFirstResponseTime7d": 992,
+          "staffAvgHandleResumeTime30d": 1449,
+          "staffHandleResumeCnts30d": 508,
+          "staffReplyRate30d": 0.8,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 2,
+          "name": "天使轮"
+        },
+        "firstPublishTime": "2025-09-18 16:44:08",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "300070000",
+          "100140000",
+          "800120000",
+          "100070000"
+        ],
+        "industryName": "企业服务",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40831243112,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "五险一金"
+            },
+            {
+              "itemValue": "带薪培训"
+            },
+            {
+              "itemValue": "带薪假期"
+            },
+            {
+              "itemValue": "节日慰问"
+            },
+            {
+              "itemValue": "生日福利"
+            },
+            {
+              "itemValue": "多次晋升机会"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "五险",
+          "五险一金",
+          "晋升空间大",
+          "氛围轻松",
+          "环境好",
+          "带薪假期",
+          "带薪培训",
+          "生日福利",
+          "节日福利"
+        ],
+        "jobPostingTime": 1758185048204,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 23
+        },
+        "jobSkillTags": [
+          {
+            "id": 270065904,
+            "name": "售后客服",
+            "standard": false
+          },
+          {
+            "id": 19493090,
+            "name": "五险一金",
+            "standard": false
+          }
+        ],
+        "jobSummary": "工作职责： 负责接听用户呼入电话，根据用户需求做好咨询解答、问题受理响应及反馈。 岗位要求： 1、会计算机基础操作，大专及以上学历 2、35岁以内， 男女不限，普通话标准 上班时间： 9点到22点 8小时排班制 月休8天 薪资待遇： 4500元-6500元 岗位优势 1.无任何销售，办公环境好，公司氛围和谐 2.带薪培训，缴纳五险一金 福利好 职位福利：带薪年假、五险一金、节日福利、生日福利、多次...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "4500+/文职售后客服/五险一金",
+        "needMajor": [],
+        "number": "CC622668230J40831243112",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 23,
+            "typeName": "代招岗位",
+            "typeShowLabel": "https://img05.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_CV_juli.png?w=78&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CC622668230J40831243112.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CC622668230J40831243112.htm",
+        "property": "股份制企业",
+        "propertyCode": "8",
+        "propertyName": "股份制企业",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "某大型公司",
+          "proxiedOrgSize": "300-499人",
+          "recruitPosition": 3
+        },
+        "publishTime": "2025-09-18 16:44:08",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 13,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZ622668230",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "4000-6000元",
+        "salaryCount": "",
+        "salaryReal": "4001-6000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "售后客服"
+          },
+          {
+            "state": 0,
+            "value": "五险一金"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://storage-public.zhaopin.cn/user/avatar/91bf69c79bb748dc88197b93db6cc474/1727502254047.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "高级人事专员",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1203917606,
+          "lastOnlineTime": 1758276491262,
+          "lastOnlineTimeText": "",
+          "staffName": "张女士"
+        },
+        "streetId": 61011306,
+        "streetName": "漳浒寨",
+        "subJobTypeLevel": "13000100100000",
+        "subJobTypeLevelName": "客服专员",
+        "subways": [],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "五险一金",
+          "带薪假期",
+          "节日慰问"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "雁塔",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 15837771,
+        "companyLogo": "https://storage-public.zhaopin.cn/CompanyLogo/20161121/B7C500AF80AE4CFBBF17C53B0F4CA798.jpg",
+        "companyName": "北京华天海峰科技股份有限公司",
+        "companyNumber": "CZ158377710",
+        "companyRootId": 15837771,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "100-299人",
+        "companyUrl": "http://company.zhaopin.com/CZ158377710.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "238",
+          "lastReplyTime": 1758165102224,
+          "lastReplyTimeText": "",
+          "reply24h": 2,
+          "staffAvgHandleResumeTime30d": 50,
+          "staffHandleResumeCnts30d": 1,
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 1,
+          "name": "未融资"
+        },
+        "firstPublishTime": "2025-07-21 10:14:35",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "100050000",
+          "100040000"
+        ],
+        "industryName": "计算机软件",
+        "industryTags": [
+          "500230000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 500230000,
+              "name": "工业自动化",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40758432809,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "社保公积金缴纳"
+            },
+            {
+              "itemValue": "劳动合同"
+            },
+            {
+              "itemValue": "社保公积金"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1753064075015,
+        "jobRootOrgInfo": {
+          "cityName": "北京",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 18959872,
+            "name": "招聘",
+            "standard": false
+          },
+          {
+            "id": 270066998,
+            "name": "员工关系",
+            "standard": false
+          }
+        ],
+        "jobSummary": "一、岗位职责 1. **日常行政人事工作** - 负责公司日常行政事务，包括办公环境维护、固定资产管理、办公用品采购及发放、会议组织、接待安排等； - 执行人力资源基础工作，包括员工入离职手续办理、考勤管理、社保公积金缴纳、人事档案管理等； - 协助招聘、培训、绩效考核等人力资源相关工作。 2. **用工风险管控** - 熟悉《劳动法》《劳动合同法》及相关法律法规，确保公司用工合规； - 负责劳动...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "行政人事专员",
+        "needMajor": [],
+        "number": "CC158377710J40758432809",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CC158377710J40758432809.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CC158377710J40758432809.htm",
+        "property": "股份制企业",
+        "propertyCode": "8",
+        "propertyName": "股份制企业",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-18 11:05:12",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 1,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZ158377710",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "5000-9000元·13薪",
+        "salaryCount": "",
+        "salaryReal": "5001-9000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "招聘"
+          },
+          {
+            "state": 0,
+            "value": "员工关系"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_f3.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "刚刚活跃",
+          "hrStateInfo": "",
+          "id": 1164549302,
+          "lastOnlineTime": 1758290602369,
+          "lastOnlineTimeText": "",
+          "staffName": "原瑶"
+        },
+        "streetId": 61011305,
+        "streetName": "丈八沟",
+        "subJobTypeLevel": "14000600100000",
+        "subJobTypeLevelName": "人力资源专员/助理",
+        "subways": [
+          {
+            "distance": 1192,
+            "latitude": 34.237379,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.873214,
+            "stationId": 101494,
+            "stationName": "丈八北路"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "雁塔",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 151155904,
+        "companyLogo": "https://storage-public.zhaopin.cn/org/logo/1758192263101141552/%E4%B9%BE%E5%85%83%E5%A4%A9%E6%88%90%E6%B0%B4%E5%8D%B0logo.jpg",
+        "companyName": "陕西乾元天成企业管理有限公司",
+        "companyNumber": "CZL1511559040",
+        "companyRootId": 151155904,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "20-99人",
+        "companyUrl": "http://company.zhaopin.com/CZL1511559040.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "学历不限",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "4",
+          "lastReplyTime": 1758292592654,
+          "lastReplyTimeText": "",
+          "reply24h": 36,
+          "staffAvgFirstResponseTime7d": 2,
+          "staffAvgHandleResumeTime30d": 2,
+          "staffHandleResumeCnts30d": 1,
+          "staffReplyRate30d": 0.5,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 8,
+          "name": ""
+        },
+        "firstPublishTime": "2025-09-18 18:40:21",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [],
+        "industryName": "财务/审计/税务",
+        "industryTags": [
+          "800010000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 800010000,
+              "name": "财务/审计/税务",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40794979207,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "高绩效"
+            },
+            {
+              "itemValue": "提成"
+            },
+            {
+              "itemValue": "绩效奖金"
+            },
+            {
+              "itemValue": "法定节假日"
+            },
+            {
+              "itemValue": "带薪假期"
+            },
+            {
+              "itemValue": "节日慰问"
+            },
+            {
+              "itemValue": "社保"
+            },
+            {
+              "itemValue": "生日会福利"
+            },
+            {
+              "itemValue": "定期团建"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "绩效奖金"
+        ],
+        "jobPostingTime": 1758192021240,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 270060982,
+            "name": "财务分析",
+            "standard": false
+          },
+          {
+            "id": 19368315,
+            "name": "电话咨询",
+            "standard": false
+          },
+          {
+            "id": 19471753,
+            "name": "门店咨询",
+            "standard": false
+          },
+          {
+            "id": 19368314,
+            "name": "网络咨询",
+            "standard": false
+          }
+        ],
+        "jobSummary": "一、职位名称：财税顾问 / 财税客户经理二、职位类型： 全职三、部门： 销售与咨询部四、工作地点： 西安市雁塔区译创国际大厦A座五、关于我们： “乾元天成”是一家专注于为企业提供一站式财税与法律解决方案的现代化服务机构。六、职位概述： 作为财税顾问，您将是连接我们专业服务与客户需求的桥梁。识别客户痛点，为客户提供专业的财税诊断，并为他们量身推荐最合适的服务方案。七、主要职责：•客户开发与销售•方案...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财税销售顾问",
+        "needMajor": [],
+        "number": "CCL1511559040J40794979207",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CCL1511559040J40794979207.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CCL1511559040J40794979207.htm",
+        "property": "民营",
+        "propertyCode": "5",
+        "propertyName": "民营",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-19 11:48:12",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 15,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZL1511559040",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "6000-12000元",
+        "salaryCount": "",
+        "salaryReal": "6001-12000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "财务分析"
+          },
+          {
+            "state": 0,
+            "value": "电话咨询"
+          },
+          {
+            "state": 0,
+            "value": "门店咨询"
+          },
+          {
+            "state": 0,
+            "value": "网络咨询"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_m3.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "行政人事总监",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "刚刚活跃",
+          "hrStateInfo": "",
+          "id": 1241268870,
+          "lastOnlineTime": 1758292662913,
+          "lastOnlineTimeText": "",
+          "staffName": "刘先生"
+        },
+        "streetId": 61011305,
+        "streetName": "丈八沟",
+        "subJobTypeLevel": "6001400020000",
+        "subJobTypeLevelName": "财务咨询顾问",
+        "subways": [
+          {
+            "distance": 1388,
+            "latitude": 34.237379,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.873214,
+            "stationId": 101494,
+            "stationName": "丈八北路"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "提成",
+          "绩效奖金",
+          "法定节假日",
+          "带薪假期",
+          "节日慰问",
+          "社保",
+          "定期团建"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "雁塔",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 141500218,
+        "companyLogo": "https://storage-public.zhaopin.cn/org/logo/1754013016715529025/%E5%95%86%E5%A6%B9%E5%A6%B9logo.png",
+        "companyName": "商妹妹财税顾问集团(西安)有限公司",
+        "companyNumber": "CZL1415002180",
+        "companyRootId": 141500218,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "100-299人",
+        "companyUrl": "http://company.zhaopin.com/CZL1415002180.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "学历不限",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "83",
+          "lastReplyTime": 1758247706203,
+          "lastReplyTimeText": "",
+          "reply24h": 210,
+          "staffAvgFirstResponseTime7d": 217,
+          "staffAvgHandleResumeTime30d": 564,
+          "staffHandleResumeCnts30d": 80,
+          "staffReplyRate30d": 0.98,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 1,
+          "name": "未融资"
+        },
+        "firstPublishTime": "2025-08-07 17:30:43",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "800130000",
+          "800120000",
+          "800090000"
+        ],
+        "industryName": "财务/审计/税务",
+        "industryTags": [
+          "800010000",
+          "100070000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 800010000,
+              "name": "财务/审计/税务",
+              "standard": true
+            },
+            {
+              "itemCode": 100070000,
+              "name": "企业服务",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40773678810,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "提成"
+            },
+            {
+              "itemValue": "社保"
+            },
+            {
+              "itemValue": "休假"
+            },
+            {
+              "itemValue": "周末双休"
+            },
+            {
+              "itemValue": "法定节假日"
+            },
+            {
+              "itemValue": "节日慰问"
+            },
+            {
+              "itemValue": "生日神秘礼物"
+            },
+            {
+              "itemValue": "节日慰问"
+            },
+            {
+              "itemValue": "省外游"
+            },
+            {
+              "itemValue": "国外游"
+            },
+            {
+              "itemValue": "年终奖"
+            },
+            {
+              "itemValue": "年终福利"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "年终奖金",
+          "周末双休"
+        ],
+        "jobPostingTime": 1754559043357,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 19368315,
+            "name": "电话咨询",
+            "standard": false
+          },
+          {
+            "id": 270060447,
+            "name": "企业管理咨询",
+            "standard": false
+          },
+          {
+            "id": 300094349,
+            "name": "工商财税",
+            "standard": false
+          }
+        ],
+        "jobSummary": "一、岗位职责（一）客户开发1、根据提供的资源，做好财税大客户咨询沟通、税务有关产品介绍和跟进成交。2. 积极寻找潜在客户，通过各种渠道（如电话、网络、拜访、新媒体等）建立新的客户合作。（二）销售推广1. 清晰准确地向客户介绍公司的产品或服务特点、优势及价值，解答客户疑问，根据客户公司情况，提供财、税方面相关方案。2. 制定并执行个性化的销售方案，满足客户需求，提高销售成功率。3. 参与市场推广活动...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "高薪聘财税顾问+10号发薪+高提成+社保+有人带",
+        "needMajor": [],
+        "number": "CCL1415002180J40773678810",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CCL1415002180J40773678810.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CCL1415002180J40773678810.htm",
+        "property": "民营",
+        "propertyCode": "5",
+        "propertyName": "民营",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-08-07 17:30:43",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 5,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZL1415002180",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "5000-10000元",
+        "salaryCount": "",
+        "salaryReal": "5001-10000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "电话咨询"
+          },
+          {
+            "state": 0,
+            "value": "企业管理咨询"
+          },
+          {
+            "state": 0,
+            "value": "工商财税"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_f4.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "招聘主管",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "刚刚活跃",
+          "hrStateInfo": "",
+          "id": 1237654239,
+          "lastOnlineTime": 1758291363942,
+          "lastOnlineTimeText": "",
+          "staffName": "王心"
+        },
+        "streetId": 61011307,
+        "streetName": "电子城",
+        "subJobTypeLevel": "6001400020000",
+        "subJobTypeLevelName": "财务咨询顾问",
+        "subways": [
+          {
+            "distance": 242,
+            "latitude": 34.240356,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.910224,
+            "stationId": 201923,
+            "stationName": "西北工业大学"
+          },
+          {
+            "distance": 242,
+            "latitude": 34.240356,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.910224,
+            "stationId": 201936,
+            "stationName": "西北工业大学"
+          },
+          {
+            "distance": 947,
+            "latitude": 34.23126,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.904211,
+            "stationId": 101496,
+            "stationName": "科技路"
+          },
+          {
+            "distance": 947,
+            "latitude": 34.23126,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.904211,
+            "stationId": 201937,
+            "stationName": "科技路"
+          },
+          {
+            "distance": 1078,
+            "latitude": 34.246188,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.899929,
+            "stationId": 201922,
+            "stationName": "丰庆公园"
+          },
+          {
+            "distance": 1346,
+            "latitude": 34.251151,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.910037,
+            "stationId": 203392,
+            "stationName": "大唐西市"
+          },
+          {
+            "distance": 1432,
+            "latitude": 34.241135,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.923387,
+            "stationId": 201924,
+            "stationName": "边家村"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "提成",
+          "周末双休",
+          "法定节假日",
+          "节日慰问"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "长安",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 15409271,
+        "companyLogo": "https://storage-public.zhaopin.cn/CompanyLogo/20170421/4A035A3BCA8541638CA06CA50F388C98.jpg",
+        "companyName": "尧柏特种水泥集团有限公司",
+        "companyNumber": "CZ154092710",
+        "companyRootId": 15409271,
+        "companyScaleTypeTagsNew": [
+          "优选雇主"
+        ],
+        "companySize": "1000-9999人",
+        "companyUrl": "http://company.zhaopin.com/CZ154092710.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "学历不限",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "8",
+          "lastReplyTimeText": "",
+          "reply24h": 119,
+          "staffAvgFirstResponseTime7d": 964,
+          "staffAvgHandleResumeTime30d": 2311,
+          "staffHandleResumeCnts30d": 136,
+          "staffReplyRate30d": 0.06,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 7,
+          "name": "已上市"
+        },
+        "firstPublishTime": "2025-09-11 09:31:43",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "200010000"
+        ],
+        "industryName": "房地产开发",
+        "industryTags": [
+          "800140000",
+          "500010000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 800140000,
+              "name": "翻译服务",
+              "standard": true
+            },
+            {
+              "itemCode": 500010000,
+              "name": "船舶/航空/航天/火车制造",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40828018912,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "包住"
+            },
+            {
+              "itemValue": "员工餐厅"
+            },
+            {
+              "itemValue": "外出考察"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "海外工作机会",
+          "包住",
+          "有食堂"
+        ],
+        "jobPostingTime": 1757554303420,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 270064734,
+            "name": "口译",
+            "standard": false
+          },
+          {
+            "id": 18889216,
+            "name": "俄语专业四级",
+            "standard": false
+          },
+          {
+            "id": 18889218,
+            "name": "俄语专业八级",
+            "standard": false
+          }
+        ],
+        "jobSummary": "俄语翻译岗位 培养方式：翻译+人力资源/行政管理/财务会计岗位职责：1.翻译+人力资源（1）负责项目执行中合同、技术文件、来往信函等相关笔译工作；（2）负责项目执行中与各相关方沟通的现场翻译工作；（3）人力资源规划、招聘与配置、培训与开发、劳动关系管理模块的管理；2.翻译+行政管理（1）负责项目执行中合同、技术文件、来往信函等相关笔译工作；（2）负责项目执行中与各相关方沟通的现场翻译工作；（3）协...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "俄语翻译（驻哈萨克斯坦）",
+        "needMajor": [],
+        "number": "CC154092710J40828018912",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CC154092710J40828018912.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CC154092710J40828018912.htm",
+        "property": "上市公司",
+        "propertyCode": "9",
+        "propertyName": "上市公司",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-09-11 09:31:43",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 3,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZ154092710",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "1.3-1.6万",
+        "salaryCount": "",
+        "salaryReal": "13001-16000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "口译"
+          },
+          {
+            "state": 0,
+            "value": "俄语专业四级"
+          },
+          {
+            "state": 0,
+            "value": "俄语专业八级"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_m1.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "招聘经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1091452484,
+          "lastOnlineTime": 1758278363880,
+          "lastOnlineTimeText": "",
+          "staffName": "王昕林"
+        },
+        "streetId": 61011605,
+        "streetName": "韦曲",
+        "subJobTypeLevel": "1000200030000",
+        "subJobTypeLevelName": "俄语翻译",
+        "subways": [
+          {
+            "distance": 59,
+            "latitude": 34.154352,
+            "lineId": 103207,
+            "lineName": "4号线",
+            "longitude": 108.974509,
+            "stationId": 103225,
+            "stationName": "东长安街"
+          },
+          {
+            "distance": 832,
+            "latitude": 34.162362,
+            "lineId": 103207,
+            "lineName": "4号线",
+            "longitude": 108.974436,
+            "stationId": 103228,
+            "stationName": "飞天路"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "包住"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img05.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_CV_juli.png?w=78&h=48&r=3",
+            "label": "代招岗位",
+            "priority": 80,
+            "type": 23
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "雁塔",
+        "cityId": "854",
+        "commercialLabel": [
+          {
+            "type": 23,
+            "typeName": "代招岗位",
+            "typeShowLabel": "https://img05.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_CV_juli.png?w=78&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 62266823,
+        "companyLogo": "https://rd5-public.zhaopin.cn/imgs/company/e17111c2a85fd644bb9ff5a4b920f229.png",
+        "companyName": "西安鑫汇优人力资源有限公司",
+        "companyNumber": "CZ622668230",
+        "companyRootId": 62266823,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "300-499人",
+        "companyUrl": "http://company.zhaopin.com/CZ622668230.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "大专",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "4",
+          "lastReplyTime": 1758262700670,
+          "lastReplyTimeText": "",
+          "reply24h": 108,
+          "staffAvgFirstResponseTime7d": 320,
+          "staffAvgHandleResumeTime30d": 653,
+          "staffHandleResumeCnts30d": 157,
+          "staffReplyRate30d": 0.94,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 2,
+          "name": "天使轮"
+        },
+        "firstPublishTime": "2025-09-01 17:37:54",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "300070000",
+          "100140000",
+          "100070000"
+        ],
+        "industryName": "企业服务",
+        "industryTags": [
+          "800120000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 800120000,
+              "name": "咨询服务",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40823554812,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "五险一金"
+            },
+            {
+              "itemValue": "无责底薪"
+            },
+            {
+              "itemValue": "带薪培训"
+            },
+            {
+              "itemValue": "带薪假期"
+            },
+            {
+              "itemValue": "节日慰问"
+            },
+            {
+              "itemValue": "生日福利"
+            },
+            {
+              "itemValue": "多次晋升机会"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "氛围轻松",
+          "五险一金",
+          "带薪假期",
+          "节日福利",
+          "五险",
+          "晋升空间大",
+          "无责底薪",
+          "环境好",
+          "带薪培训",
+          "绩效奖金",
+          "生日福利"
+        ],
+        "jobPostingTime": 1756719474701,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 23
+        },
+        "jobSkillTags": [
+          {
+            "id": 270065923,
+            "name": "售前客服",
+            "standard": false
+          },
+          {
+            "id": 270065904,
+            "name": "售后客服",
+            "standard": false
+          }
+        ],
+        "jobSummary": "工作职责：负责接听用户呼入95热线电话，根据用户需求做好咨询解答、问题受理等响应及反馈。岗位要求：1、会计算机基础操作 大专及以上学历2、20-35岁 男女不限 普通话标准，有服务意识上班时间：8小时排班制 月8天薪资待遇：无责底薪+津贴+留存奖+绩效 综合工资 4500元-6000元岗位优势1.无任何销售，办公环境好，公司氛围和谐2.带薪培训，缴纳五险一金 福利好职位福利：带薪年假、五险一金、节...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "纯文职955官网客服五险一金",
+        "needMajor": [],
+        "number": "CC622668230J40823554812",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 23,
+            "typeName": "代招岗位",
+            "typeShowLabel": "https://img05.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_CV_juli.png?w=78&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CC622668230J40823554812.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CC622668230J40823554812.htm",
+        "property": "股份制企业",
+        "propertyCode": "8",
+        "propertyName": "股份制企业",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "某大型公司",
+          "proxiedOrgSize": "500-999人",
+          "recruitPosition": 3
+        },
+        "publishTime": "2025-09-18 18:19:11",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 15,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZ622668230",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "4000-6000元",
+        "salaryCount": "",
+        "salaryReal": "4001-6000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "售前客服"
+          },
+          {
+            "state": 0,
+            "value": "售后客服"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://storage-public.zhaopin.cn/user/avatar/1756366224131915717/a9b4f129d5a544a68482d45550fb4eb1/zhilian_avatar-1756366222442-636.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "高级人事",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1220226701,
+          "lastOnlineTime": 1758266582805,
+          "lastOnlineTimeText": "",
+          "staffName": "帖先生"
+        },
+        "streetId": 61011305,
+        "streetName": "丈八沟",
+        "subJobTypeLevel": "13000100100000",
+        "subJobTypeLevelName": "客服专员",
+        "subways": [
+          {
+            "distance": 1171,
+            "latitude": 34.223365,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.899248,
+            "stationId": 201938,
+            "stationName": "甘家寨"
+          },
+          {
+            "distance": 1402,
+            "latitude": 34.2372,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.887444,
+            "stationId": 101495,
+            "stationName": "延平门"
+          },
+          {
+            "distance": 1479,
+            "latitude": 34.212194,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.892319,
+            "stationId": 201939,
+            "stationName": "木塔寺"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "五险一金",
+          "无责底薪",
+          "带薪假期",
+          "节日慰问"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "雁塔",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 26777123,
+        "companyLogo": "https://storage-public.zhaopin.cn/user/avatar/1611215683318873315/bbc12c9f09c0eed421ebbe2c9f52a68.png",
+        "companyName": "青岛鼎信通讯消防安全有限公司",
+        "companyNumber": "CZ267771230",
+        "companyRootId": 26777123,
+        "companyScaleTypeTagsNew": [
+          "优选雇主"
+        ],
+        "companySize": "500-999人",
+        "companyUrl": "http://company.zhaopin.com/CC267771235.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "大专",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "138",
+          "lastReplyTime": 1758077610656,
+          "lastReplyTimeText": "",
+          "staffAvgFirstResponseTime7d": 601,
+          "staffAvgHandleResumeTime30d": 1676,
+          "staffHandleResumeCnts30d": 137,
+          "staffReplyRate30d": 0.02,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 7,
+          "name": "已上市"
+        },
+        "firstPublishTime": "2025-06-13 15:33:57",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "500180000"
+        ],
+        "industryName": "仪器仪表制造",
+        "innerBusinessInfo": {
+          "customIndustryList": []
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40746938011,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": "五险一金"
+            },
+            {
+              "itemValue": "年终奖"
+            },
+            {
+              "itemValue": "通讯补助"
+            },
+            {
+              "itemValue": "有餐补"
+            },
+            {
+              "itemValue": "高温补贴"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1749800037613,
+        "jobRootOrgInfo": {
+          "cityName": "青岛",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 270064804,
+            "name": "订单管理",
+            "standard": false
+          },
+          {
+            "id": 19845584,
+            "name": "内勤管理",
+            "standard": false
+          },
+          {
+            "id": 19845582,
+            "name": "客户支持",
+            "standard": false
+          },
+          {
+            "id": 270062162,
+            "name": "行政管理",
+            "standard": false
+          },
+          {
+            "id": 270059826,
+            "name": "合同管理",
+            "standard": false
+          }
+        ],
+        "jobSummary": "青岛鼎信通讯消防安全有限公司是消防报警行业唯一A股主板上市企业（股票代码：603421），是消防报警全系统二线制的开创者与引领者，从芯片到模具，全系统产品均为自主研发生产，消防报警系统客户推荐率TOP 3，场景覆盖“工业+公建+民用”。工作职责：1、合同、发票管理：负责本区域销售合同原件管理；负责本区域销售发票、收据原件管理2、回款管理：负责核对本区域项目销售回款数据的准确性3、费用管理：负责本区...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "销售内勤专员-消防控制系统头部企业",
+        "needMajor": [],
+        "number": "CC267771230J40746938011",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CC267771230J40746938011.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CC267771230J40746938011.htm",
+        "property": "民营",
+        "propertyCode": "5",
+        "propertyName": "民营",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-06-16 14:15:09",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 1,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZ267771230",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "6000-8000元",
+        "salaryCount": "",
+        "salaryReal": "6001-8000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "订单管理"
+          },
+          {
+            "state": 0,
+            "value": "内勤管理"
+          },
+          {
+            "state": 0,
+            "value": "客户支持"
+          },
+          {
+            "state": 0,
+            "value": "行政管理"
+          },
+          {
+            "state": 0,
+            "value": "合同管理"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://storage-public.zhaopin.cn/user/avatar/1691639006691165003/dd3e5568-d491-476a-99fe-46967a65afe3.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "招聘经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1176777863,
+          "lastOnlineTime": 1758281920821,
+          "lastOnlineTimeText": "",
+          "staffName": "黄先生"
+        },
+        "streetId": 61011305,
+        "streetName": "丈八沟",
+        "subJobTypeLevel": "14000400070000",
+        "subJobTypeLevelName": "销售助理",
+        "subways": [
+          {
+            "distance": 630,
+            "latitude": 34.193897,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.870492,
+            "stationId": 201942,
+            "stationName": "丈八四路"
+          },
+          {
+            "distance": 705,
+            "latitude": 34.193835,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.884723,
+            "stationId": 201941,
+            "stationName": "丈八一路"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "五险一金",
+          "通讯补助",
+          "有餐补",
+          "高温补贴"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "雁塔",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 139355193,
+        "companyLogo": "https://storage-public.zhaopin.cn/org/logo/1750160268866800054/139355193.png",
+        "companyName": "陕西青研云信息科技有限责任公司",
+        "companyNumber": "CZL1393551930",
+        "companyRootId": 139355193,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "20-99人",
+        "companyUrl": "http://company.zhaopin.com/CZL1393551930.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "大专",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "129",
+          "lastReplyTime": 1758275155263,
+          "lastReplyTimeText": "",
+          "reply24h": 246,
+          "staffAvgFirstResponseTime7d": 350,
+          "staffAvgHandleResumeTime30d": 408,
+          "staffHandleResumeCnts30d": 644,
+          "staffReplyRate30d": 0.98,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 1,
+          "name": "未融资"
+        },
+        "firstPublishTime": "2023-05-11 11:10:16",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "100040000"
+        ],
+        "industryName": "IT服务",
+        "industryTags": [
+          "500030000",
+          "100010000",
+          "500020000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 500030000,
+              "name": "电子设备制造",
+              "standard": true
+            },
+            {
+              "itemCode": 100010000,
+              "name": "电子/半导体/集成电路",
+              "standard": true
+            },
+            {
+              "itemCode": 500020000,
+              "name": "电气机械/电力设备",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40511261615,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "奖金"
+            },
+            {
+              "itemValue": "全勤奖"
+            },
+            {
+              "itemValue": "法定工作时间"
+            },
+            {
+              "itemValue": "周末双休"
+            },
+            {
+              "itemValue": "法定节假日"
+            },
+            {
+              "itemValue": "五险一金"
+            },
+            {
+              "itemValue": "年终奖"
+            },
+            {
+              "itemValue": "绩效奖金"
+            },
+            {
+              "itemValue": "带薪假期"
+            },
+            {
+              "itemValue": "节日慰问"
+            },
+            {
+              "itemValue": "法定工作时间"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "五险一金",
+          "绩效奖金",
+          "带薪假期",
+          "节日福利",
+          "全勤奖金",
+          "周末双休",
+          "十三薪",
+          "法定节假日休"
+        ],
+        "jobPostingTime": 1683774616016,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 19297066,
+            "name": "单片机开发",
+            "standard": false
+          },
+          {
+            "id": 270060626,
+            "name": "硬件测试",
+            "standard": false
+          },
+          {
+            "id": 270060719,
+            "name": "技术支持",
+            "standard": false
+          }
+        ],
+        "jobSummary": "岗位职责1.协助技术人员调试程序，负责硬件功能测试、故障分析，2.维护管理或协助管理所开发的硬件，3.负责把控产品的开发进度，跟进项目细节测试等功能岗位要求1.机械，电气，机电专业优先考虑2.有较强的学习能力，创新力和执行力3.会计算机相关的基本操作 公司福利： 1.岗位工资+奖金+补贴+全勤奖 2.无经验者可以接受，前期有人带，公司内部办公，环境氛围轻松 工作时间:早九晚六，周末双休 ，法定节假...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "硬件工程师助理",
+        "needMajor": [],
+        "number": "CCL1393551930J40511261615",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CCL1393551930J40511261615.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CCL1393551930J40511261615.htm",
+        "property": "民营",
+        "propertyCode": "5",
+        "propertyName": "民营",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-08-30 11:16:32",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 1,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZL1393551930",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "5000-8000元",
+        "salaryCount": "",
+        "salaryReal": "5001-8000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "单片机开发"
+          },
+          {
+            "state": 0,
+            "value": "硬件测试"
+          },
+          {
+            "state": 0,
+            "value": "技术支持"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_f4.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1162808603,
+          "lastOnlineTime": 1758276324120,
+          "lastOnlineTimeText": "",
+          "staffName": "李女士"
+        },
+        "streetId": 61011305,
+        "streetName": "丈八沟",
+        "subJobTypeLevel": "9000500460000",
+        "subJobTypeLevelName": "硬件工程师",
+        "subways": [
+          {
+            "distance": 457,
+            "latitude": 34.23126,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.904211,
+            "stationId": 101496,
+            "stationName": "科技路"
+          },
+          {
+            "distance": 457,
+            "latitude": 34.23126,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.904211,
+            "stationId": 201937,
+            "stationName": "科技路"
+          },
+          {
+            "distance": 1088,
+            "latitude": 34.240356,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.910224,
+            "stationId": 201923,
+            "stationName": "西北工业大学"
+          },
+          {
+            "distance": 1088,
+            "latitude": 34.240356,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.910224,
+            "stationId": 201936,
+            "stationName": "西北工业大学"
+          },
+          {
+            "distance": 1230,
+            "latitude": 34.223365,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.899248,
+            "stationId": 201938,
+            "stationName": "甘家寨"
+          },
+          {
+            "distance": 1279,
+            "latitude": 34.2372,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.887444,
+            "stationId": 101495,
+            "stationName": "延平门"
+          },
+          {
+            "distance": 1322,
+            "latitude": 34.246188,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.899929,
+            "stationId": 201922,
+            "stationName": "丰庆公园"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "全勤奖",
+          "法定工作时间",
+          "周末双休",
+          "法定节假日",
+          "五险一金",
+          "年终奖",
+          "绩效奖金",
+          "带薪假期",
+          "节日慰问"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "雁塔",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 141500218,
+        "companyLogo": "https://storage-public.zhaopin.cn/org/logo/1754013016715529025/%E5%95%86%E5%A6%B9%E5%A6%B9logo.png",
+        "companyName": "商妹妹财税顾问集团(西安)有限公司",
+        "companyNumber": "CZL1415002180",
+        "companyRootId": 141500218,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "100-299人",
+        "companyUrl": "http://company.zhaopin.com/CZL1415002180.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "学历不限",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "1",
+          "lastReplyTime": 1758185477550,
+          "lastReplyTimeText": "",
+          "reply24h": 205,
+          "staffAvgFirstResponseTime7d": 409,
+          "staffAvgHandleResumeTime30d": 303,
+          "staffHandleResumeCnts30d": 85,
+          "staffReplyRate30d": 0.67,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 1,
+          "name": "未融资"
+        },
+        "firstPublishTime": "2025-08-04 09:24:50",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "800130000",
+          "800120000",
+          "800090000"
+        ],
+        "industryName": "财务/审计/税务",
+        "industryTags": [
+          "800010000",
+          "100070000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 800010000,
+              "name": "财务/审计/税务",
+              "standard": true
+            },
+            {
+              "itemCode": 100070000,
+              "name": "企业服务",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40771966010,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "社保"
+            },
+            {
+              "itemValue": "法定节假日"
+            },
+            {
+              "itemValue": "提成"
+            },
+            {
+              "itemValue": "休假"
+            },
+            {
+              "itemValue": "周末双休"
+            },
+            {
+              "itemValue": "法定节假日"
+            },
+            {
+              "itemValue": "节日慰问"
+            },
+            {
+              "itemValue": "生日神秘礼物"
+            },
+            {
+              "itemValue": "节日慰问"
+            },
+            {
+              "itemValue": "省外游"
+            },
+            {
+              "itemValue": "国外游"
+            },
+            {
+              "itemValue": "年终奖"
+            },
+            {
+              "itemValue": "年终福利"
+            },
+            {
+              "itemValue": "五险"
+            },
+            {
+              "itemValue": "全勤奖"
+            },
+            {
+              "itemValue": "加班补助"
+            },
+            {
+              "itemValue": "绩效奖金"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "年终奖金",
+          "周末双休"
+        ],
+        "jobPostingTime": 1754270690956,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 19507200,
+            "name": "企业客户",
+            "standard": false
+          },
+          {
+            "id": 270061826,
+            "name": "电话销售",
+            "standard": false
+          },
+          {
+            "id": 270070942,
+            "name": "渠道销售",
+            "standard": false
+          },
+          {
+            "id": 270067915,
+            "name": "网络销售",
+            "standard": false
+          }
+        ],
+        "jobSummary": "一、岗位职责 （一）客户开发1、根据提供的资源，做好财税大客户咨询沟通、税务有关产品介绍和跟进成交。 2. 积极寻找潜在客户，通过各种渠道（如电话、网络、拜访、新媒体等）建立新的客户合作。（二）销售推广1. 清晰准确地向客户介绍公司的产品或服务特点、优势及价值，解答客户疑问，根据客户公司情况，提供财、税方面相关方案。2. 制定并执行个性化的销售方案，满足客户需求，提高销售成功率。3. 参与市场推广...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "高薪聘财税顾问+社保+法定假+高提成+有人带",
+        "needMajor": [],
+        "number": "CCL1415002180J40771966010",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 0,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CCL1415002180J40771966010.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CCL1415002180J40771966010.htm",
+        "property": "民营",
+        "propertyCode": "5",
+        "propertyName": "民营",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-08-26 00:00:03",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 10,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZL1415002180",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "6000-12000元",
+        "salaryCount": "",
+        "salaryReal": "6001-12000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "企业客户"
+          },
+          {
+            "state": 0,
+            "value": "电话销售"
+          },
+          {
+            "state": 0,
+            "value": "渠道销售"
+          },
+          {
+            "state": 0,
+            "value": "网络销售"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://storage-public.zhaopin.cn/user/avatar/1754633797200612904/cc88aaeb-5229-4e9f-8a92-f29f03fe351c.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1206779390,
+          "lastOnlineTime": 1758276991962,
+          "lastOnlineTimeText": "",
+          "staffName": "王慧"
+        },
+        "streetId": 61011307,
+        "streetName": "电子城",
+        "subJobTypeLevel": "19000200100000",
+        "subJobTypeLevelName": "销售顾问",
+        "subways": [
+          {
+            "distance": 242,
+            "latitude": 34.240356,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.910224,
+            "stationId": 201923,
+            "stationName": "西北工业大学"
+          },
+          {
+            "distance": 242,
+            "latitude": 34.240356,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.910224,
+            "stationId": 201936,
+            "stationName": "西北工业大学"
+          },
+          {
+            "distance": 947,
+            "latitude": 34.23126,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.904211,
+            "stationId": 101496,
+            "stationName": "科技路"
+          },
+          {
+            "distance": 947,
+            "latitude": 34.23126,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.904211,
+            "stationId": 201937,
+            "stationName": "科技路"
+          },
+          {
+            "distance": 1078,
+            "latitude": 34.246188,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.899929,
+            "stationId": 201922,
+            "stationName": "丰庆公园"
+          },
+          {
+            "distance": 1346,
+            "latitude": 34.251151,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.910037,
+            "stationId": 203392,
+            "stationName": "大唐西市"
+          },
+          {
+            "distance": 1432,
+            "latitude": 34.241135,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.923387,
+            "stationId": 201924,
+            "stationName": "边家村"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "法定节假日",
+          "提成",
+          "周末双休",
+          "节日慰问",
+          "五险",
+          "全勤奖",
+          "加班补助",
+          "绩效奖金"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "雁塔",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 135183870,
+        "companyLogo": "https://storage-public.zhaopin.cn/org/logo/1750160844520608042/135183870.png",
+        "companyName": "威思恩(西安)因私出入境服务有限责任公司",
+        "companyNumber": "CZL1351838700",
+        "companyRootId": 135183870,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "20人以下",
+        "companyUrl": "http://company.zhaopin.com/CZL1351838700.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "41",
+          "lastReplyTime": 1757992765448,
+          "lastReplyTimeText": "",
+          "staffAvgFirstResponseTime7d": 1633,
+          "staffAvgHandleResumeTime30d": 5666,
+          "staffHandleResumeCnts30d": 48,
+          "staffReplyRate30d": 0.18,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 1,
+          "name": "未融资"
+        },
+        "firstPublishTime": "2025-02-25 16:09:58",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "800140000",
+          "800120000"
+        ],
+        "industryName": "咨询服务",
+        "industryTags": [
+          "800010000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 800010000,
+              "name": "财务/审计/税务",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40721842314,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [],
+        "jobPostingTime": 1740470998625,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 19369246,
+            "name": "数据可视化",
+            "standard": false
+          },
+          {
+            "id": 300184681,
+            "name": "EXCELL",
+            "standard": false
+          },
+          {
+            "id": 270060055,
+            "name": "Python",
+            "standard": false
+          }
+        ],
+        "jobSummary": "岗位要求：1. 熟悉财务与会计知识，擅长财务报表数据分析；2. 熟悉各类数据分析工具，例如：Excel高级应用：数据透视表、VLOOKUP、Power Query等；3. 有较强的数据可视化能力，能用简洁语言向非专业财务人员解释复杂数据；4. 配合公司负责人将数据分析转换成清晰直观的可视化报告（图标、仪表盘）；5. 对数据准确性有高要求，数据逻辑自洽性验证等；",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "财务数据分析专员",
+        "needMajor": [],
+        "number": "CCL1351838700J40721842314",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CCL1351838700J40721842314.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CCL1351838700J40721842314.htm",
+        "property": "民营",
+        "propertyCode": "5",
+        "propertyName": "民营",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2025-06-19 17:20:32",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 1,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZL1351838700",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "4000-8000元",
+        "salaryCount": "",
+        "salaryReal": "4001-8000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "数据可视化"
+          },
+          {
+            "state": 0,
+            "value": "EXCELL"
+          },
+          {
+            "state": 0,
+            "value": "Python"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_f1.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事经理",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1147077988,
+          "lastOnlineTime": 1758276118982,
+          "lastOnlineTimeText": "",
+          "staffName": "王女士"
+        },
+        "streetId": 61011309,
+        "streetName": "长延堡",
+        "subJobTypeLevel": "14000100010000",
+        "subJobTypeLevelName": "财务分析",
+        "subways": [
+          {
+            "distance": 511,
+            "latitude": 34.198082,
+            "lineId": 101470,
+            "lineName": "2号线",
+            "longitude": 108.947444,
+            "stationId": 203369,
+            "stationName": "电视塔"
+          },
+          {
+            "distance": 511,
+            "latitude": 34.198082,
+            "lineId": 101470,
+            "lineName": "2号线",
+            "longitude": 108.947444,
+            "stationId": 101487,
+            "stationName": "会展中心"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [
+          {
+            "extendInfo": null,
+            "icon": "https://img05.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_CV_juli.png?w=78&h=48&r=3",
+            "label": "代招岗位",
+            "priority": 80,
+            "type": 23
+          }
+        ],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "雁塔",
+        "cityId": "854",
+        "commercialLabel": [
+          {
+            "type": 23,
+            "typeName": "代招岗位",
+            "typeShowLabel": "https://img05.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_CV_juli.png?w=78&h=48&r=3"
+          }
+        ],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 62266823,
+        "companyLogo": "https://rd5-public.zhaopin.cn/imgs/company/e17111c2a85fd644bb9ff5a4b920f229.png",
+        "companyName": "西安鑫汇优人力资源有限公司",
+        "companyNumber": "CZ622668230",
+        "companyRootId": 62266823,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "300-499人",
+        "companyUrl": "http://company.zhaopin.com/CZ622668230.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "大专",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "4",
+          "lastReplyTime": 1757297423233,
+          "lastReplyTimeText": "",
+          "reply24h": 108,
+          "staffAvgFirstResponseTime7d": 320,
+          "staffAvgHandleResumeTime30d": 653,
+          "staffHandleResumeCnts30d": 157,
+          "staffReplyRate30d": 0.94,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 2,
+          "name": "天使轮"
+        },
+        "firstPublishTime": "2025-09-01 17:37:22",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "300070000",
+          "100140000",
+          "100070000"
+        ],
+        "industryName": "企业服务",
+        "industryTags": [
+          "800120000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 800120000,
+              "name": "咨询服务",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 0,
+        "isNewPosition": 0,
+        "jobDetailShowUrgentTag": false,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40823554712,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "五险一金"
+            },
+            {
+              "itemValue": "无责底薪"
+            },
+            {
+              "itemValue": "带薪培训"
+            },
+            {
+              "itemValue": "带薪假期"
+            },
+            {
+              "itemValue": "节日慰问"
+            },
+            {
+              "itemValue": "生日福利"
+            },
+            {
+              "itemValue": "多次晋升机会"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "氛围轻松",
+          "五险一金",
+          "带薪假期",
+          "节日福利",
+          "五险",
+          "晋升空间大",
+          "无责底薪",
+          "环境好",
+          "带薪培训",
+          "绩效奖金",
+          "生日福利"
+        ],
+        "jobPostingTime": 1756719442933,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 23
+        },
+        "jobSkillTags": [
+          {
+            "id": 270065923,
+            "name": "售前客服",
+            "standard": false
+          },
+          {
+            "id": 270065904,
+            "name": "售后客服",
+            "standard": false
+          }
+        ],
+        "jobSummary": "工作职责：负责接听用户呼入95热线电话，根据用户需求做好咨询解答、问题受理等响应及反馈。岗位要求：1、会计算机基础操作 大专及以上学历2、18-35岁 男女不限 普通话标准，有服务意识上班时间：8小时排班制 月8天薪资待遇：无责底薪+津贴+留存奖+绩效 综合工资 4500元-6000元岗位优势1.无任何销售，办公环境好，公司氛围和谐2.带薪培训，缴纳五险一金 福利好职位福利：带薪年假、五险一金、节...",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "纯文职客服五险一金",
+        "needMajor": [],
+        "number": "CC622668230J40823554712",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [
+          {
+            "type": 23,
+            "typeName": "代招岗位",
+            "typeShowLabel": "https://img05.zhaopin.com/2012/other/mobile/capp/position/ui24/tag_CV_juli.png?w=78&h=48&r=3"
+          }
+        ],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CC622668230J40823554712.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CC622668230J40823554712.htm",
+        "property": "股份制企业",
+        "propertyCode": "8",
+        "propertyName": "股份制企业",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "某大型公司",
+          "proxiedOrgSize": "500-999人",
+          "recruitPosition": 3
+        },
+        "publishTime": "2025-09-18 18:20:06",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 15,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZ622668230",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "4000-6000元",
+        "salaryCount": "",
+        "salaryReal": "4001-6000",
+        "salaryType": 1,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "售前客服"
+          },
+          {
+            "state": 0,
+            "value": "售后客服"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://storage-public.zhaopin.cn/user/avatar/1756366224131915717/a9b4f129d5a544a68482d45550fb4eb1/zhilian_avatar-1756366222442-636.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "高级人事",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "昨日活跃",
+          "hrStateInfo": "",
+          "id": 1220226701,
+          "lastOnlineTime": 1758266582805,
+          "lastOnlineTimeText": "",
+          "staffName": "帖先生"
+        },
+        "streetId": 61011305,
+        "streetName": "丈八沟",
+        "subJobTypeLevel": "13000100100000",
+        "subJobTypeLevelName": "客服专员",
+        "subways": [
+          {
+            "distance": 922,
+            "latitude": 34.223365,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.899248,
+            "stationId": 201938,
+            "stationName": "甘家寨"
+          },
+          {
+            "distance": 1303,
+            "latitude": 34.2372,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.887444,
+            "stationId": 101495,
+            "stationName": "延平门"
+          },
+          {
+            "distance": 1483,
+            "latitude": 34.23126,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.904211,
+            "stationId": 101496,
+            "stationName": "科技路"
+          },
+          {
+            "distance": 1483,
+            "latitude": 34.23126,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.904211,
+            "stationId": 201937,
+            "stationName": "科技路"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 0,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "五险一金",
+          "无责底薪",
+          "带薪假期",
+          "节日慰问"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "全职",
+        "workingExp": "不限"
+      },
+      {
+        "abroadFlag": 2,
+        "abroadTipInfo": {
+          "abroadTips": [],
+          "icon": "",
+          "title": ""
+        },
+        "adResponse": null,
+        "aiPositionRecommendLevel": "",
+        "aiPositionRecommendReason": "",
+        "alreadyCallPhone": false,
+        "applyType": "1",
+        "campusBestCompany": {
+          "bestCompanyUrl": "",
+          "homepageType": 0,
+          "logoTagUrl": "",
+          "state": 0
+        },
+        "campusJobDetail": null,
+        "campusJobMatchData": null,
+        "campusPositionCardTagInfo": null,
+        "campusRootOrgInfo": null,
+        "campusTags": [],
+        "canBeRegular": false,
+        "canRemoteInternship": false,
+        "cardCustomJson": "",
+        "cardType": 1,
+        "chatWindow": 1,
+        "cityDistrict": "莲湖",
+        "cityId": "854",
+        "commercialLabel": [],
+        "commonTrack": {
+          "trackCommercialFeature": "",
+          "trackSocialSearchEmergencyFeature": false
+        },
+        "companyId": 67927782,
+        "companyLogo": "https://storage-public.zhaopin.cn/CompanyLogo/20170922/1D8CF6B72BB54D60AD45FFC5188E3C2A.jpg",
+        "companyName": "中联资产评估集团(陕西)有限公司",
+        "companyNumber": "CZ679277820",
+        "companyRootId": 67927782,
+        "companyScaleTypeTagsNew": [],
+        "companySize": "100-299人",
+        "companyUrl": "http://company.zhaopin.com/CZ679277820.htm",
+        "complainFlag": false,
+        "deliveryPath": "",
+        "displayPhoneNumber": false,
+        "distance": 0.0,
+        "distanceFormat": "",
+        "distanceText": "",
+        "education": "本科",
+        "experimentInfo": null,
+        "extensions": null,
+        "featureServer": {
+          "jdViews3d": "43",
+          "lastReplyTimeText": "",
+          "staffAvgHandleResumeTime30d": 524,
+          "staffHandleResumeCnts30d": 61,
+          "staffReplyRate30d": 0.0,
+          "todayReplyNum": 0,
+          "todayReplyNumText": ""
+        },
+        "feedOperation": null,
+        "feedPosition": null,
+        "financingStage": {
+          "code": 1,
+          "name": "未融资"
+        },
+        "firstPublishTime": "2024-12-09 14:38:07",
+        "hasAppliedPosition": false,
+        "industryCompanyTags": [
+          "800120000"
+        ],
+        "industryName": "咨询服务",
+        "industryTags": [
+          "800010000",
+          "800110000"
+        ],
+        "innerBusinessInfo": {
+          "customIndustryList": [
+            {
+              "itemCode": 800010000,
+              "name": "财务/审计/税务",
+              "standard": true
+            },
+            {
+              "itemCode": 800110000,
+              "name": "专业技术服务",
+              "standard": true
+            }
+          ]
+        },
+        "internshipMonths": 3,
+        "isNewPosition": 0,
+        "jobHitReason": "",
+        "jobHitReasonHighlights": [],
+        "jobId": 40251899013,
+        "jobKeyword": {
+          "keywords": [
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": ""
+            },
+            {
+              "itemValue": "带薪旅游"
+            },
+            {
+              "itemValue": "节日慰问"
+            }
+          ]
+        },
+        "jobKnowledgeWelfareFeatures": [
+          "团建旅游",
+          "节日福利"
+        ],
+        "jobPostingTime": 1733726287000,
+        "jobRootOrgInfo": {
+          "cityName": "西安",
+          "reviewOrgNature": 1
+        },
+        "jobSkillTags": [
+          {
+            "id": 270068818,
+            "name": "财务审计",
+            "standard": false
+          },
+          {
+            "id": 18959890,
+            "name": "专项审计",
+            "standard": false
+          }
+        ],
+        "jobSummary": "岗位职责： 协助财务审计负责人完成企业或者事业单位的年报审计或者专项审计工作。 任职要求： 1、本科以上学历，会计、审计、财务或相关专业优先；2、具有良好的团队合作精神及沟通能力、熟练运用计算机及办公软件。 3、吃苦耐劳，能适应出差加班。职位福利：员工旅游、节日福利",
+        "liveCard": {
+          "icon": "",
+          "liveState": 0,
+          "liveTips": "",
+          "roomId": 0,
+          "startTimeFormat": "",
+          "videoUrl": ""
+        },
+        "matchInfo": {
+          "icon": "",
+          "matched": 0,
+          "tagState": 0
+        },
+        "menVipLevel": 0,
+        "name": "审计实习生",
+        "needMajor": [],
+        "number": "CC679277820J40251899013",
+        "orgBestEmployerFlag": 0,
+        "orgCommercialTags": [],
+        "orgPayedFlag": 1,
+        "payload": {
+          "name": "",
+          "partition": "",
+          "score": "",
+          "weight": ""
+        },
+        "positionCommercialLabel": [],
+        "positionExpandCardData": "",
+        "positionExpandCardType": 0,
+        "positionHighlight": "",
+        "positionOfNlp": 1,
+        "positionSourceType": 1,
+        "positionSourceTypeUrl": "",
+        "positionURL": "http://jobs.zhaopin.com/CC679277820J40251899013.htm",
+        "positionUrl": "http://jobs.zhaopin.com/CC679277820J40251899013.htm",
+        "property": "民营",
+        "propertyCode": "5",
+        "propertyName": "民营",
+        "propertyType": "",
+        "propertyTypeUrl": "",
+        "provideInternshipCertificate": false,
+        "proxyModel": {
+          "proxiedOrgName": "",
+          "proxiedOrgSize": "",
+          "recruitPosition": 0
+        },
+        "publishTime": "2024-12-09 14:38:56",
+        "recallSign": {
+          "gMethod": "-",
+          "gParam": "A",
+          "gQuery": "A",
+          "gSort": "A",
+          "gSource": "786",
+          "gWeight": 10
+        },
+        "recruitNumber": 15,
+        "redirectUrl": "",
+        "redirectable": false,
+        "rootCompanyNumber": "CZ679277820",
+        "rpoProxied": false,
+        "rpoProxy": false,
+        "salary60": "50-70元/天",
+        "salaryCount": "",
+        "salaryReal": "50-70",
+        "salaryType": 2,
+        "searchTagList": [],
+        "securityAddressLabel": "",
+        "settlementType": "",
+        "showDistance": 0,
+        "skillLabel": [
+          {
+            "state": 0,
+            "value": "财务审计"
+          },
+          {
+            "state": 0,
+            "value": "专项审计"
+          }
+        ],
+        "skillLabelPersonality": "",
+        "staffCard": {
+          "authenticationState": 0,
+          "avatar": "https://rd5-public.zhaopin.cn/imgs/avatar_f3.png?x-oss-process=image/resize,l_240/rotate,0",
+          "goldMedalInterviewer": {
+            "goldMedalInterviewer": false,
+            "interviewerImageUrl": "",
+            "interviewerTitle": ""
+          },
+          "hrCompanyName": "",
+          "hrJob": "人事主管",
+          "hrOnlineIocState": 0,
+          "hrOnlineState": "三日内活跃",
+          "hrStateInfo": "",
+          "id": 1113881118,
+          "lastOnlineTime": 1758169285297,
+          "lastOnlineTimeText": "",
+          "staffName": "郑女士"
+        },
+        "streetId": 61010408,
+        "streetName": "桃园路",
+        "subJobTypeLevel": "14000100160000",
+        "subJobTypeLevelName": "审计",
+        "subways": [
+          {
+            "distance": 349,
+            "latitude": 34.246188,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.899929,
+            "stationId": 201922,
+            "stationName": "丰庆公园"
+          },
+          {
+            "distance": 1161,
+            "latitude": 34.252331,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.88819,
+            "stationId": 201921,
+            "stationName": "金光门"
+          },
+          {
+            "distance": 1181,
+            "latitude": 34.2372,
+            "lineId": 101492,
+            "lineName": "3号线",
+            "longitude": 108.887444,
+            "stationId": 101495,
+            "stationName": "延平门"
+          },
+          {
+            "distance": 1334,
+            "latitude": 34.240356,
+            "lineId": 201903,
+            "lineName": "5号线",
+            "longitude": 108.910224,
+            "stationId": 201923,
+            "stationName": "西北工业大学"
+          },
+          {
+            "distance": 1334,
+            "latitude": 34.240356,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.910224,
+            "stationId": 201936,
+            "stationName": "西北工业大学"
+          },
+          {
+            "distance": 1431,
+            "latitude": 34.251151,
+            "lineId": 201935,
+            "lineName": "6号线",
+            "longitude": 108.910037,
+            "stationId": 203392,
+            "stationName": "大唐西市"
+          }
+        ],
+        "tagABC": "",
+        "tagList": [],
+        "todayInterview": false,
+        "todayInterviewImageUrl": "",
+        "topLabel": null,
+        "tradingArea": "",
+        "volcanoMeterial": null,
+        "weeklyInternshipDays": 7,
+        "welfareLabel": [],
+        "welfareTagList": [
+          "带薪旅游",
+          "节日慰问"
+        ],
+        "workCity": "西安",
+        "workDateType": "",
+        "workMode": "",
+        "workType": "实习",
+        "workingExp": "无经验"
+      }
+    ],
+    "majorHaveJd": false,
+    "method": "-",
+    "methodGroup": "config-position_search-position_campus_query-default",
+    "modularState": 1,
+    "nullException": "",
+    "positionExperimentInfo": null,
+    "promptCopy": {
+      "filter": {
+        "subTitle": "",
+        "title": ""
+      },
+      "general": {
+        "subTitle": "",
+        "title": ""
+      },
+      "generalNull": {
+        "subTitle": "",
+        "title": ""
+      },
+      "line": {
+        "hasRecommend": "",
+        "noRecommend": ""
+      },
+      "purpose": {
+        "subTitle": "",
+        "title": ""
+      },
+      "searchLineAccuracy": {
+        "hasAccuracy": "为您推荐“会计”其他相近结果",
+        "noAccuracy": "为您推荐“会计”相近结果",
+        "recommend": "未找到相关职位，根据求职意向推荐以下职位"
+      }
+    },
+    "purposeOptimize": null,
+    "relatedExperiment": "",
+    "relatedPosition": null,
+    "relatedTrace": "",
+    "searchLineAccuracyExperiment": "",
+    "sortTypes": [
+      {
+        "code": "DEFAULT",
+        "name": "智能排序"
+      },
+      {
+        "code": "HR_ACTIVE_TIME",
+        "name": "HR活跃时间"
+      },
+      {
+        "code": "JOB_PUBLISH_TIME",
+        "name": "职位发布时间"
+      }
+    ],
+    "studyMajor": "",
+    "todayInterviewCardInfo": {
+      "badgeIcon": "",
+      "bottomIcon": "",
+      "buttonName": "",
+      "experimentGroup": "",
+      "showCard": false,
+      "title": ""
+    },
+    "todayInterviewSearchInfo": {
+      "experimentGroup": "",
+      "showFilterBar": false
+    },
+    "typeSearch": 0
+  },
+  "statusCode": 200,
+  "statusDescription": "成功",
+  "taskId": "da21f87a49db29e968580e87ebd7ab3e"
+}
